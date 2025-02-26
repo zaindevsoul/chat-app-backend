@@ -1,0 +1,4293 @@
+2024-07-30 18:21:57 [31merror[39m: error from logger Chats is not defined
+2024-07-30 18:22:28 [31merror[39m: 
+2024-07-30 18:22:43 [31merror[39m: Chats is not defined
+2024-07-30 18:23:06 [32minfo[39m: Chats is not defined
+2024-07-30 18:23:28 [32minfo[39m: 
+2024-07-30 18:23:44 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79f'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hello',
+  _id: new ObjectId('66a8e960dd58412ec7aa1661'),
+  createdAt: 2024-07-30T13:23:44.325Z,
+  updatedAt: 2024-07-30T13:23:44.325Z,
+  __v: 0
+}
+2024-09-02 13:55:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'G',
+  _id: new ObjectId('66d57d7c946d8136833b7328'),
+  createdAt: 2024-09-02T08:55:24.231Z,
+  updatedAt: 2024-09-02T08:55:24.231Z,
+  __v: 0
+}
+2024-09-02 13:55:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'G',
+  _id: new ObjectId('66d57d9b946d8136833b732c'),
+  createdAt: 2024-09-02T08:55:55.935Z,
+  updatedAt: 2024-09-02T08:55:55.935Z,
+  __v: 0
+}
+2024-09-02 13:57:59 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'G',
+  _id: new ObjectId('66d57e17946d8136833b7330'),
+  createdAt: 2024-09-02T08:57:59.941Z,
+  updatedAt: 2024-09-02T08:57:59.941Z,
+  __v: 0
+}
+2024-09-02 16:20:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'sefefbiebif',
+  _id: new ObjectId('66d59f6e70adba2e53bd4099'),
+  createdAt: 2024-09-02T11:20:14.081Z,
+  updatedAt: 2024-09-02T11:20:14.081Z,
+  __v: 0
+}
+2024-09-02 17:53:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'abubakar ansari',
+  _id: new ObjectId('66d5b55a70adba2e53bd40a2'),
+  createdAt: 2024-09-02T12:53:46.959Z,
+  updatedAt: 2024-09-02T12:53:46.959Z,
+  __v: 0
+}
+2024-09-02 17:56:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'bila ansari',
+  _id: new ObjectId('66d5b60b70adba2e53bd40a8'),
+  createdAt: 2024-09-02T12:56:43.955Z,
+  updatedAt: 2024-09-02T12:56:43.955Z,
+  __v: 0
+}
+2024-09-02 17:57:10 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'bila ansari',
+  _id: new ObjectId('66d5b62670adba2e53bd40ac'),
+  createdAt: 2024-09-02T12:57:10.931Z,
+  updatedAt: 2024-09-02T12:57:10.931Z,
+  __v: 0
+}
+2024-09-02 17:57:52 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'abubakar ansari',
+  _id: new ObjectId('66d5b65070adba2e53bd40b1'),
+  createdAt: 2024-09-02T12:57:52.862Z,
+  updatedAt: 2024-09-02T12:57:52.862Z,
+  __v: 0
+}
+2024-09-02 17:58:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'abubakar ansari',
+  _id: new ObjectId('66d5b66170adba2e53bd40b5'),
+  createdAt: 2024-09-02T12:58:09.043Z,
+  updatedAt: 2024-09-02T12:58:09.043Z,
+  __v: 0
+}
+2024-09-02 18:09:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'abubakar ansari',
+  _id: new ObjectId('66d5b90470adba2e53bd40b9'),
+  createdAt: 2024-09-02T13:09:24.651Z,
+  updatedAt: 2024-09-02T13:09:24.651Z,
+  __v: 0
+}
+2024-09-03 11:35:29 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'new user',
+  _id: new ObjectId('66d6ae31bc54e900f710e13c'),
+  createdAt: 2024-09-03T06:35:29.629Z,
+  updatedAt: 2024-09-03T06:35:29.629Z,
+  __v: 0
+}
+2024-09-03 11:39:33 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'new user',
+  _id: new ObjectId('66d6af25bc54e900f710e140'),
+  createdAt: 2024-09-03T06:39:33.436Z,
+  updatedAt: 2024-09-03T06:39:33.436Z,
+  __v: 0
+}
+2024-09-03 11:42:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hhhh',
+  _id: new ObjectId('66d6aff0bc54e900f710e144'),
+  createdAt: 2024-09-03T06:42:56.158Z,
+  updatedAt: 2024-09-03T06:42:56.158Z,
+  __v: 0
+}
+2024-09-03 16:04:36 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79d'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'abubakar ansari',
+  _id: new ObjectId('66d6ed44bc54e900f710e189'),
+  createdAt: 2024-09-03T11:04:36.908Z,
+  updatedAt: 2024-09-03T11:04:36.908Z,
+  __v: 0
+}
+2024-09-03 16:07:52 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79d'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'abubakar ansari',
+  _id: new ObjectId('66d6ee08bc54e900f710e190'),
+  createdAt: 2024-09-03T11:07:52.760Z,
+  updatedAt: 2024-09-03T11:07:52.760Z,
+  __v: 0
+}
+2024-09-04 12:06:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79d'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'G',
+  _id: new ObjectId('66d806e9336e2e76320718cb'),
+  createdAt: 2024-09-04T07:06:17.119Z,
+  updatedAt: 2024-09-04T07:06:17.119Z,
+  __v: 0
+}
+2024-09-04 12:12:26 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hello',
+  _id: new ObjectId('66d8085a336e2e76320718d7'),
+  createdAt: 2024-09-04T07:12:26.236Z,
+  updatedAt: 2024-09-04T07:12:26.236Z,
+  __v: 0
+}
+2024-09-04 12:18:42 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hello',
+  _id: new ObjectId('66d809d2336e2e76320718db'),
+  createdAt: 2024-09-04T07:18:42.894Z,
+  updatedAt: 2024-09-04T07:18:42.894Z,
+  __v: 0
+}
+2024-09-04 12:26:37 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'abubakar ansari',
+  _id: new ObjectId('66d80bad336e2e76320718e6'),
+  createdAt: 2024-09-04T07:26:37.507Z,
+  updatedAt: 2024-09-04T07:26:37.507Z,
+  __v: 0
+}
+2024-09-04 12:36:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79d'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'new message ',
+  _id: new ObjectId('66d80de8336e2e76320718fd'),
+  createdAt: 2024-09-04T07:36:08.214Z,
+  updatedAt: 2024-09-04T07:36:08.214Z,
+  __v: 0
+}
+2024-09-04 12:41:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'developer ',
+  _id: new ObjectId('66d80f33336e2e7632071907'),
+  createdAt: 2024-09-04T07:41:39.539Z,
+  updatedAt: 2024-09-04T07:41:39.539Z,
+  __v: 0
+}
+2024-09-04 12:43:45 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'good',
+  _id: new ObjectId('66d80fb1336e2e763207190b'),
+  createdAt: 2024-09-04T07:43:45.286Z,
+  updatedAt: 2024-09-04T07:43:45.286Z,
+  __v: 0
+}
+2024-09-04 13:18:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'starter ',
+  _id: new ObjectId('66d817e3336e2e763207191a'),
+  createdAt: 2024-09-04T08:18:43.166Z,
+  updatedAt: 2024-09-04T08:18:43.166Z,
+  __v: 0
+}
+2024-09-04 13:22:32 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'react native ',
+  _id: new ObjectId('66d818c8336e2e7632071921'),
+  createdAt: 2024-09-04T08:22:32.493Z,
+  updatedAt: 2024-09-04T08:22:32.493Z,
+  __v: 0
+}
+2024-09-04 13:39:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'why this chat is not work',
+  _id: new ObjectId('66d81cdd336e2e7632071932'),
+  createdAt: 2024-09-04T08:39:57.399Z,
+  updatedAt: 2024-09-04T08:39:57.399Z,
+  __v: 0
+}
+2024-09-04 15:16:30 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'Ss',
+  _id: new ObjectId('66d8337e336e2e7632071971'),
+  createdAt: 2024-09-04T10:16:30.274Z,
+  updatedAt: 2024-09-04T10:16:30.274Z,
+  __v: 0
+}
+2024-09-04 15:34:15 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'how are you',
+  _id: new ObjectId('66d837a7336e2e763207197c'),
+  createdAt: 2024-09-04T10:34:15.062Z,
+  updatedAt: 2024-09-04T10:34:15.062Z,
+  __v: 0
+}
+2024-09-04 15:37:40 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'thank you jan',
+  _id: new ObjectId('66d83874336e2e7632071983'),
+  createdAt: 2024-09-04T10:37:40.266Z,
+  updatedAt: 2024-09-04T10:37:40.266Z,
+  __v: 0
+}
+2024-09-04 15:40:25 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'Nice work',
+  _id: new ObjectId('66d83919336e2e7632071987'),
+  createdAt: 2024-09-04T10:40:25.079Z,
+  updatedAt: 2024-09-04T10:40:25.079Z,
+  __v: 0
+}
+2024-09-04 19:12:12 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'same',
+  _id: new ObjectId('66d86abc336e2e76320719b3'),
+  createdAt: 2024-09-04T14:12:12.808Z,
+  updatedAt: 2024-09-04T14:12:12.808Z,
+  __v: 0
+}
+2024-09-04 19:20:22 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'your chat ',
+  _id: new ObjectId('66d86ca6336e2e76320719bb'),
+  createdAt: 2024-09-04T14:20:22.586Z,
+  updatedAt: 2024-09-04T14:20:22.586Z,
+  __v: 0
+}
+2024-09-04 19:21:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'same work',
+  _id: new ObjectId('66d86ccc336e2e76320719bf'),
+  createdAt: 2024-09-04T14:21:00.195Z,
+  updatedAt: 2024-09-04T14:21:00.195Z,
+  __v: 0
+}
+2024-09-04 19:28:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'new mrsg',
+  _id: new ObjectId('66d86e79336e2e76320719c3'),
+  createdAt: 2024-09-04T14:28:09.523Z,
+  updatedAt: 2024-09-04T14:28:09.523Z,
+  __v: 0
+}
+2024-09-05 11:28:33 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: "i'm fine and you ",
+  _id: new ObjectId('66d94f91046d7776b6a58923'),
+  createdAt: 2024-09-05T06:28:33.774Z,
+  updatedAt: 2024-09-05T06:28:33.774Z,
+  __v: 0
+}
+2024-09-05 13:03:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'whats going on',
+  _id: new ObjectId('66d965ec046d7776b6a58937'),
+  createdAt: 2024-09-05T08:03:56.432Z,
+  updatedAt: 2024-09-05T08:03:56.432Z,
+  __v: 0
+}
+2024-09-05 13:17:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'helli',
+  _id: new ObjectId('66d9691f046d7776b6a5893f'),
+  createdAt: 2024-09-05T08:17:35.795Z,
+  updatedAt: 2024-09-05T08:17:35.795Z,
+  __v: 0
+}
+2024-09-05 13:30:26 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'Ggggggggggggggggggggggggggggg',
+  _id: new ObjectId('66d96c22046d7776b6a58946'),
+  createdAt: 2024-09-05T08:30:26.805Z,
+  updatedAt: 2024-09-05T08:30:26.805Z,
+  __v: 0
+}
+2024-09-05 15:51:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'Hy',
+  _id: new ObjectId('66d98d1c046d7776b6a58952'),
+  createdAt: 2024-09-05T10:51:08.605Z,
+  updatedAt: 2024-09-05T10:51:08.605Z,
+  __v: 0
+}
+2024-09-05 15:51:52 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'New',
+  _id: new ObjectId('66d98d48046d7776b6a58959'),
+  createdAt: 2024-09-05T10:51:52.388Z,
+  updatedAt: 2024-09-05T10:51:52.388Z,
+  __v: 0
+}
+2024-09-05 15:52:11 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'Gfh',
+  _id: new ObjectId('66d98d5b046d7776b6a5895d'),
+  createdAt: 2024-09-05T10:52:11.679Z,
+  updatedAt: 2024-09-05T10:52:11.679Z,
+  __v: 0
+}
+2024-09-05 15:52:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'Gyf',
+  _id: new ObjectId('66d98d68046d7776b6a58961'),
+  createdAt: 2024-09-05T10:52:24.051Z,
+  updatedAt: 2024-09-05T10:52:24.051Z,
+  __v: 0
+}
+2024-09-05 15:52:54 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'Gg gas df',
+  _id: new ObjectId('66d98d86046d7776b6a58965'),
+  createdAt: 2024-09-05T10:52:54.908Z,
+  updatedAt: 2024-09-05T10:52:54.908Z,
+  __v: 0
+}
+2024-09-05 15:53:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'Hy',
+  _id: new ObjectId('66d98d95046d7776b6a5896c'),
+  createdAt: 2024-09-05T10:53:09.022Z,
+  updatedAt: 2024-09-05T10:53:09.022Z,
+  __v: 0
+}
+2024-09-05 15:54:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'Hhhhh',
+  _id: new ObjectId('66d98e00046d7776b6a58970'),
+  createdAt: 2024-09-05T10:54:56.009Z,
+  updatedAt: 2024-09-05T10:54:56.009Z,
+  __v: 0
+}
+2024-09-05 16:16:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy ',
+  _id: new ObjectId('66d99312046d7776b6a5898b'),
+  createdAt: 2024-09-05T11:16:34.087Z,
+  updatedAt: 2024-09-05T11:16:34.087Z,
+  __v: 0
+}
+2024-09-05 16:17:44 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'heeloooo',
+  _id: new ObjectId('66d99358046d7776b6a5898f'),
+  createdAt: 2024-09-05T11:17:44.780Z,
+  updatedAt: 2024-09-05T11:17:44.780Z,
+  __v: 0
+}
+2025-01-22 12:15:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'dede3',
+  _id: new ObjectId('67909afd265174f00fb36661'),
+  createdAt: 2025-01-22T07:15:09.722Z,
+  updatedAt: 2025-01-22T07:15:09.722Z,
+  __v: 0
+}
+2025-01-22 12:15:15 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ded',
+  _id: new ObjectId('67909b03265174f00fb36665'),
+  createdAt: 2025-01-22T07:15:15.119Z,
+  updatedAt: 2025-01-22T07:15:15.119Z,
+  __v: 0
+}
+2025-01-22 12:20:33 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 's32s',
+  _id: new ObjectId('67909c41265174f00fb36669'),
+  createdAt: 2025-01-22T07:20:33.881Z,
+  updatedAt: 2025-01-22T07:20:33.881Z,
+  __v: 0
+}
+2025-01-22 12:31:36 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('67909ed8265174f00fb3666d'),
+  createdAt: 2025-01-22T07:31:36.191Z,
+  updatedAt: 2025-01-22T07:31:36.191Z,
+  __v: 0
+}
+2025-01-22 12:33:04 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hr',
+  _id: new ObjectId('67909f30265174f00fb36671'),
+  createdAt: 2025-01-22T07:33:04.603Z,
+  updatedAt: 2025-01-22T07:33:04.603Z,
+  __v: 0
+}
+2025-01-22 12:33:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('67909f39265174f00fb36675'),
+  createdAt: 2025-01-22T07:33:13.237Z,
+  updatedAt: 2025-01-22T07:33:13.237Z,
+  __v: 0
+}
+2025-01-22 12:38:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'jnjk',
+  _id: new ObjectId('6790a05e265174f00fb36679'),
+  createdAt: 2025-01-22T07:38:06.312Z,
+  updatedAt: 2025-01-22T07:38:06.312Z,
+  __v: 0
+}
+2025-01-22 12:44:18 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('6790a1d2265174f00fb3667d'),
+  createdAt: 2025-01-22T07:44:18.513Z,
+  updatedAt: 2025-01-22T07:44:18.513Z,
+  __v: 0
+}
+2025-01-22 12:48:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ed',
+  _id: new ObjectId('6790a2de265174f00fb36681'),
+  createdAt: 2025-01-22T07:48:46.701Z,
+  updatedAt: 2025-01-22T07:48:46.701Z,
+  __v: 0
+}
+2025-01-22 12:52:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e4e',
+  _id: new ObjectId('6790a3c7265174f00fb36685'),
+  createdAt: 2025-01-22T07:52:39.907Z,
+  updatedAt: 2025-01-22T07:52:39.907Z,
+  __v: 0
+}
+2025-01-22 12:57:32 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'se3d',
+  _id: new ObjectId('6790a4ec265174f00fb3669b'),
+  createdAt: 2025-01-22T07:57:32.409Z,
+  updatedAt: 2025-01-22T07:57:32.409Z,
+  __v: 0
+}
+2025-01-22 12:57:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ne4ek',
+  _id: new ObjectId('6790a504265174f00fb3669f'),
+  createdAt: 2025-01-22T07:57:56.346Z,
+  updatedAt: 2025-01-22T07:57:56.346Z,
+  __v: 0
+}
+2025-01-22 13:00:45 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '33',
+  _id: new ObjectId('6790a5ad265174f00fb366a3'),
+  createdAt: 2025-01-22T08:00:45.583Z,
+  updatedAt: 2025-01-22T08:00:45.583Z,
+  __v: 0
+}
+2025-01-22 13:03:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'mmm,',
+  _id: new ObjectId('6790a642265174f00fb366a7'),
+  createdAt: 2025-01-22T08:03:14.947Z,
+  updatedAt: 2025-01-22T08:03:14.947Z,
+  __v: 0
+}
+2025-01-22 13:05:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'knn',
+  _id: new ObjectId('6790a6d7265174f00fb366ab'),
+  createdAt: 2025-01-22T08:05:43.312Z,
+  updatedAt: 2025-01-22T08:05:43.312Z,
+  __v: 0
+}
+2025-01-22 13:05:53 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'knnm,mm',
+  _id: new ObjectId('6790a6e1265174f00fb366af'),
+  createdAt: 2025-01-22T08:05:53.839Z,
+  updatedAt: 2025-01-22T08:05:53.839Z,
+  __v: 0
+}
+2025-01-22 13:06:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'mnk',
+  _id: new ObjectId('6790a6f5265174f00fb366b3'),
+  createdAt: 2025-01-22T08:06:13.155Z,
+  updatedAt: 2025-01-22T08:06:13.155Z,
+  __v: 0
+}
+2025-01-22 13:06:16 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'jjj',
+  _id: new ObjectId('6790a6f8265174f00fb366b7'),
+  createdAt: 2025-01-22T08:06:16.794Z,
+  updatedAt: 2025-01-22T08:06:16.794Z,
+  __v: 0
+}
+2025-01-22 13:07:28 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'mnn',
+  _id: new ObjectId('6790a740265174f00fb366bb'),
+  createdAt: 2025-01-22T08:07:28.074Z,
+  updatedAt: 2025-01-22T08:07:28.074Z,
+  __v: 0
+}
+2025-01-22 13:15:33 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'kjkj',
+  _id: new ObjectId('6790a925265174f00fb366bf'),
+  createdAt: 2025-01-22T08:15:33.115Z,
+  updatedAt: 2025-01-22T08:15:33.115Z,
+  __v: 0
+}
+2025-01-22 13:15:45 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: ',jkk',
+  _id: new ObjectId('6790a931265174f00fb366c3'),
+  createdAt: 2025-01-22T08:15:45.834Z,
+  updatedAt: 2025-01-22T08:15:45.834Z,
+  __v: 0
+}
+2025-01-22 17:04:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('6790ded3265174f00fb366cd'),
+  createdAt: 2025-01-22T12:04:35.376Z,
+  updatedAt: 2025-01-22T12:04:35.376Z,
+  __v: 0
+}
+2025-01-22 17:05:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hry3',
+  _id: new ObjectId('6790deff265174f00fb366d1'),
+  createdAt: 2025-01-22T12:05:19.580Z,
+  updatedAt: 2025-01-22T12:05:19.580Z,
+  __v: 0
+}
+2025-01-22 17:09:10 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('6790dfe6265174f00fb366d7'),
+  createdAt: 2025-01-22T12:09:10.414Z,
+  updatedAt: 2025-01-22T12:09:10.414Z,
+  __v: 0
+}
+2025-01-22 17:09:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('6790e00d265174f00fb366db'),
+  createdAt: 2025-01-22T12:09:49.758Z,
+  updatedAt: 2025-01-22T12:09:49.758Z,
+  __v: 0
+}
+2025-01-22 17:14:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ded3',
+  _id: new ObjectId('6790e12b265174f00fb366e5'),
+  createdAt: 2025-01-22T12:14:35.924Z,
+  updatedAt: 2025-01-22T12:14:35.924Z,
+  __v: 0
+}
+2025-01-22 17:14:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3d3d',
+  _id: new ObjectId('6790e133265174f00fb366ef'),
+  createdAt: 2025-01-22T12:14:43.955Z,
+  updatedAt: 2025-01-22T12:14:43.955Z,
+  __v: 0
+}
+2025-01-22 17:18:04 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'tyy',
+  _id: new ObjectId('6790e1fc265174f00fb366f3'),
+  createdAt: 2025-01-22T12:18:04.889Z,
+  updatedAt: 2025-01-22T12:18:04.889Z,
+  __v: 0
+}
+2025-01-22 17:20:25 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '4r4',
+  _id: new ObjectId('6790e289265174f00fb366f7'),
+  createdAt: 2025-01-22T12:20:25.911Z,
+  updatedAt: 2025-01-22T12:20:25.911Z,
+  __v: 0
+}
+2025-01-22 17:26:26 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3d',
+  _id: new ObjectId('6790e3f2265174f00fb366fb'),
+  createdAt: 2025-01-22T12:26:26.394Z,
+  updatedAt: 2025-01-22T12:26:26.394Z,
+  __v: 0
+}
+2025-01-22 17:27:12 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3e',
+  _id: new ObjectId('6790e420265174f00fb366ff'),
+  createdAt: 2025-01-22T12:27:12.051Z,
+  updatedAt: 2025-01-22T12:27:12.051Z,
+  __v: 0
+}
+2025-01-22 17:29:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ded3',
+  _id: new ObjectId('6790e4ae265174f00fb36703'),
+  createdAt: 2025-01-22T12:29:34.640Z,
+  updatedAt: 2025-01-22T12:29:34.640Z,
+  __v: 0
+}
+2025-01-22 17:29:40 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'drefr4f',
+  _id: new ObjectId('6790e4b4265174f00fb36707'),
+  createdAt: 2025-01-22T12:29:40.362Z,
+  updatedAt: 2025-01-22T12:29:40.362Z,
+  __v: 0
+}
+2025-01-22 17:30:42 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'de3d',
+  _id: new ObjectId('6790e4f2265174f00fb3670b'),
+  createdAt: 2025-01-22T12:30:42.325Z,
+  updatedAt: 2025-01-22T12:30:42.325Z,
+  __v: 0
+}
+2025-01-22 17:32:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'kkkk54',
+  _id: new ObjectId('6790e56b265174f00fb3670f'),
+  createdAt: 2025-01-22T12:32:43.610Z,
+  updatedAt: 2025-01-22T12:32:43.610Z,
+  __v: 0
+}
+2025-01-22 17:32:48 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 't5t',
+  _id: new ObjectId('6790e570265174f00fb36713'),
+  createdAt: 2025-01-22T12:32:48.850Z,
+  updatedAt: 2025-01-22T12:32:48.850Z,
+  __v: 0
+}
+2025-01-22 17:32:51 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '5t5',
+  _id: new ObjectId('6790e573265174f00fb36717'),
+  createdAt: 2025-01-22T12:32:51.231Z,
+  updatedAt: 2025-01-22T12:32:51.231Z,
+  __v: 0
+}
+2025-01-22 17:32:53 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'tg',
+  _id: new ObjectId('6790e575265174f00fb3671b'),
+  createdAt: 2025-01-22T12:32:53.876Z,
+  updatedAt: 2025-01-22T12:32:53.876Z,
+  __v: 0
+}
+2025-01-22 17:33:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'f4f',
+  _id: new ObjectId('6790e589265174f00fb3671f'),
+  createdAt: 2025-01-22T12:33:13.186Z,
+  updatedAt: 2025-01-22T12:33:13.186Z,
+  __v: 0
+}
+2025-01-22 17:33:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '4',
+  _id: new ObjectId('6790e58a265174f00fb36723'),
+  createdAt: 2025-01-22T12:33:14.147Z,
+  updatedAt: 2025-01-22T12:33:14.147Z,
+  __v: 0
+}
+2025-01-22 17:34:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd34',
+  _id: new ObjectId('6790e5f1265174f00fb36727'),
+  createdAt: 2025-01-22T12:34:57.657Z,
+  updatedAt: 2025-01-22T12:34:57.657Z,
+  __v: 0
+}
+2025-01-22 17:34:59 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e4',
+  _id: new ObjectId('6790e5f3265174f00fb3672b'),
+  createdAt: 2025-01-22T12:34:59.082Z,
+  updatedAt: 2025-01-22T12:34:59.082Z,
+  __v: 0
+}
+2025-01-22 17:36:16 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '343e',
+  _id: new ObjectId('6790e640265174f00fb3672f'),
+  createdAt: 2025-01-22T12:36:16.376Z,
+  updatedAt: 2025-01-22T12:36:16.376Z,
+  __v: 0
+}
+2025-01-22 17:48:10 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ed3',
+  _id: new ObjectId('6790e90a265174f00fb36733'),
+  createdAt: 2025-01-22T12:48:10.115Z,
+  updatedAt: 2025-01-22T12:48:10.115Z,
+  __v: 0
+}
+2025-01-22 18:12:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'kmkmk3e3e',
+  _id: new ObjectId('6790eead265174f00fb36737'),
+  createdAt: 2025-01-22T13:12:13.455Z,
+  updatedAt: 2025-01-22T13:12:13.455Z,
+  __v: 0
+}
+2025-01-22 18:12:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ds2se3d',
+  _id: new ObjectId('6790eeb7265174f00fb3673b'),
+  createdAt: 2025-01-22T13:12:23.072Z,
+  updatedAt: 2025-01-22T13:12:23.072Z,
+  __v: 0
+}
+2025-01-22 18:12:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('6790eebb265174f00fb3673f'),
+  createdAt: 2025-01-22T13:12:27.720Z,
+  updatedAt: 2025-01-22T13:12:27.720Z,
+  __v: 0
+}
+2025-01-22 18:12:37 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ds2',
+  _id: new ObjectId('6790eec5265174f00fb36743'),
+  createdAt: 2025-01-22T13:12:37.776Z,
+  updatedAt: 2025-01-22T13:12:37.776Z,
+  __v: 0
+}
+2025-01-22 18:13:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'sed',
+  _id: new ObjectId('6790eee2265174f00fb36747'),
+  createdAt: 2025-01-22T13:13:06.612Z,
+  updatedAt: 2025-01-22T13:13:06.612Z,
+  __v: 0
+}
+2025-01-22 18:13:12 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'de3d',
+  _id: new ObjectId('6790eee8265174f00fb3674b'),
+  createdAt: 2025-01-22T13:13:12.655Z,
+  updatedAt: 2025-01-22T13:13:12.655Z,
+  __v: 0
+}
+2025-01-22 18:13:22 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd332d',
+  _id: new ObjectId('6790eef2265174f00fb3674f'),
+  createdAt: 2025-01-22T13:13:22.362Z,
+  updatedAt: 2025-01-22T13:13:22.362Z,
+  __v: 0
+}
+2025-01-22 18:13:25 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ded',
+  _id: new ObjectId('6790eef5265174f00fb36753'),
+  createdAt: 2025-01-22T13:13:25.794Z,
+  updatedAt: 2025-01-22T13:13:25.794Z,
+  __v: 0
+}
+2025-01-22 18:14:38 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'nnkn',
+  _id: new ObjectId('6790ef3e265174f00fb36757'),
+  createdAt: 2025-01-22T13:14:38.026Z,
+  updatedAt: 2025-01-22T13:14:38.026Z,
+  __v: 0
+}
+2025-01-22 18:19:16 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ed3',
+  _id: new ObjectId('6790f054265174f00fb3675b'),
+  createdAt: 2025-01-22T13:19:16.523Z,
+  updatedAt: 2025-01-22T13:19:16.523Z,
+  __v: 0
+}
+2025-01-22 18:19:26 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('6790f05e265174f00fb3675f'),
+  createdAt: 2025-01-22T13:19:26.582Z,
+  updatedAt: 2025-01-22T13:19:26.582Z,
+  __v: 0
+}
+2025-01-22 18:19:42 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3de3d3djjjjnjnj                                   d3dn3nd3nd3dk3ndn3kdnk3dkj3nd3jdnkj3ndjnkjdn3kjdnj3ndjnjd3ndjj3nd          ',
+  _id: new ObjectId('6790f06e265174f00fb36763'),
+  createdAt: 2025-01-22T13:19:42.365Z,
+  updatedAt: 2025-01-22T13:19:42.365Z,
+  __v: 0
+}
+2025-01-22 18:22:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ded',
+  _id: new ObjectId('6790f11f265174f00fb36767'),
+  createdAt: 2025-01-22T13:22:39.203Z,
+  updatedAt: 2025-01-22T13:22:39.203Z,
+  __v: 0
+}
+2025-01-22 18:24:54 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'de2d',
+  _id: new ObjectId('6790f1a6265174f00fb3676b'),
+  createdAt: 2025-01-22T13:24:54.078Z,
+  updatedAt: 2025-01-22T13:24:54.078Z,
+  __v: 0
+}
+2025-01-22 18:26:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd3d',
+  _id: new ObjectId('6790f20a265174f00fb3676f'),
+  createdAt: 2025-01-22T13:26:34.511Z,
+  updatedAt: 2025-01-22T13:26:34.511Z,
+  __v: 0
+}
+2025-01-22 18:28:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'drfrfr4',
+  _id: new ObjectId('6790f269265174f00fb36773'),
+  createdAt: 2025-01-22T13:28:09.923Z,
+  updatedAt: 2025-01-22T13:28:09.923Z,
+  __v: 0
+}
+2025-01-22 18:28:47 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '4r43r',
+  _id: new ObjectId('6790f28f265174f00fb36777'),
+  createdAt: 2025-01-22T13:28:47.446Z,
+  updatedAt: 2025-01-22T13:28:47.446Z,
+  __v: 0
+}
+2025-01-22 18:30:16 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '4r4',
+  _id: new ObjectId('6790f2e8265174f00fb3677b'),
+  createdAt: 2025-01-22T13:30:16.525Z,
+  updatedAt: 2025-01-22T13:30:16.525Z,
+  __v: 0
+}
+2025-01-22 18:31:07 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '443',
+  _id: new ObjectId('6790f31b265174f00fb3677f'),
+  createdAt: 2025-01-22T13:31:07.321Z,
+  updatedAt: 2025-01-22T13:31:07.321Z,
+  __v: 0
+}
+2025-01-22 18:34:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd3d',
+  _id: new ObjectId('6790f3d0265174f00fb36783'),
+  createdAt: 2025-01-22T13:34:08.252Z,
+  updatedAt: 2025-01-22T13:34:08.252Z,
+  __v: 0
+}
+2025-01-22 18:36:45 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3e',
+  _id: new ObjectId('6790f46d265174f00fb36787'),
+  createdAt: 2025-01-22T13:36:45.509Z,
+  updatedAt: 2025-01-22T13:36:45.509Z,
+  __v: 0
+}
+2025-01-22 18:37:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'de3d',
+  _id: new ObjectId('6790f47d265174f00fb3678b'),
+  createdAt: 2025-01-22T13:37:01.072Z,
+  updatedAt: 2025-01-22T13:37:01.072Z,
+  __v: 0
+}
+2025-01-22 18:38:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'kjnjk',
+  _id: new ObjectId('6790f4ef265174f00fb3678f'),
+  createdAt: 2025-01-22T13:38:55.461Z,
+  updatedAt: 2025-01-22T13:38:55.461Z,
+  __v: 0
+}
+2025-01-22 18:41:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '23d',
+  _id: new ObjectId('6790f58e265174f00fb36793'),
+  createdAt: 2025-01-22T13:41:34.174Z,
+  updatedAt: 2025-01-22T13:41:34.174Z,
+  __v: 0
+}
+2025-01-22 18:41:42 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '33',
+  _id: new ObjectId('6790f596265174f00fb36797'),
+  createdAt: 2025-01-22T13:41:42.736Z,
+  updatedAt: 2025-01-22T13:41:42.736Z,
+  __v: 0
+}
+2025-01-22 18:48:29 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('6790f72d265174f00fb3679b'),
+  createdAt: 2025-01-22T13:48:29.809Z,
+  updatedAt: 2025-01-22T13:48:29.809Z,
+  __v: 0
+}
+2025-01-22 18:50:11 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'de3d',
+  _id: new ObjectId('6790f793265174f00fb3679f'),
+  createdAt: 2025-01-22T13:50:11.936Z,
+  updatedAt: 2025-01-22T13:50:11.936Z,
+  __v: 0
+}
+2025-01-22 18:51:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3e',
+  _id: new ObjectId('6790f7cc265174f00fb367a3'),
+  createdAt: 2025-01-22T13:51:08.590Z,
+  updatedAt: 2025-01-22T13:51:08.590Z,
+  __v: 0
+}
+2025-01-22 18:51:38 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3ee',
+  _id: new ObjectId('6790f7ea265174f00fb367a7'),
+  createdAt: 2025-01-22T13:51:38.782Z,
+  updatedAt: 2025-01-22T13:51:38.782Z,
+  __v: 0
+}
+2025-01-22 18:52:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3d',
+  _id: new ObjectId('6790f800265174f00fb367ab'),
+  createdAt: 2025-01-22T13:52:00.822Z,
+  updatedAt: 2025-01-22T13:52:00.822Z,
+  __v: 0
+}
+2025-01-22 18:53:29 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd3d3',
+  _id: new ObjectId('6790f859265174f00fb367af'),
+  createdAt: 2025-01-22T13:53:29.124Z,
+  updatedAt: 2025-01-22T13:53:29.124Z,
+  __v: 0
+}
+2025-01-22 18:53:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '43d43',
+  _id: new ObjectId('6790f85e265174f00fb367b3'),
+  createdAt: 2025-01-22T13:53:34.398Z,
+  updatedAt: 2025-01-22T13:53:34.398Z,
+  __v: 0
+}
+2025-01-22 18:53:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd3d',
+  _id: new ObjectId('6790f873265174f00fb367b7'),
+  createdAt: 2025-01-22T13:53:55.358Z,
+  updatedAt: 2025-01-22T13:53:55.358Z,
+  __v: 0
+}
+2025-01-22 19:01:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3d3',
+  _id: new ObjectId('6790fa33265174f00fb367bb'),
+  createdAt: 2025-01-22T14:01:23.375Z,
+  updatedAt: 2025-01-22T14:01:23.375Z,
+  __v: 0
+}
+2025-01-22 19:01:29 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('6790fa39265174f00fb367bf'),
+  createdAt: 2025-01-22T14:01:29.673Z,
+  updatedAt: 2025-01-22T14:01:29.673Z,
+  __v: 0
+}
+2025-01-22 19:02:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('6790fa7a265174f00fb367c3'),
+  createdAt: 2025-01-22T14:02:34.011Z,
+  updatedAt: 2025-01-22T14:02:34.011Z,
+  __v: 0
+}
+2025-01-22 19:03:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 's2s',
+  _id: new ObjectId('6790faa5265174f00fb367c7'),
+  createdAt: 2025-01-22T14:03:17.327Z,
+  updatedAt: 2025-01-22T14:03:17.327Z,
+  __v: 0
+}
+2025-01-22 19:07:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3s2',
+  _id: new ObjectId('6790fbaf265174f00fb367cb'),
+  createdAt: 2025-01-22T14:07:43.307Z,
+  updatedAt: 2025-01-22T14:07:43.307Z,
+  __v: 0
+}
+2025-01-22 19:08:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'njnkj',
+  _id: new ObjectId('6790fbc1265174f00fb367cf'),
+  createdAt: 2025-01-22T14:08:01.057Z,
+  updatedAt: 2025-01-22T14:08:01.057Z,
+  __v: 0
+}
+2025-01-22 19:08:25 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'mm',
+  _id: new ObjectId('6790fbd9265174f00fb367d3'),
+  createdAt: 2025-01-22T14:08:25.643Z,
+  updatedAt: 2025-01-22T14:08:25.643Z,
+  __v: 0
+}
+2025-01-23 11:28:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 's3s3',
+  _id: new ObjectId('6791e1a18f99a2951b83006e'),
+  createdAt: 2025-01-23T06:28:49.748Z,
+  updatedAt: 2025-01-23T06:28:49.748Z,
+  __v: 0
+}
+2025-01-23 11:28:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 's3s3',
+  _id: new ObjectId('6791e1a18f99a2951b830072'),
+  createdAt: 2025-01-23T06:28:49.873Z,
+  updatedAt: 2025-01-23T06:28:49.873Z,
+  __v: 0
+}
+2025-01-23 11:43:53 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'de3d',
+  _id: new ObjectId('6791e5298f99a2951b830076'),
+  createdAt: 2025-01-23T06:43:53.567Z,
+  updatedAt: 2025-01-23T06:43:53.567Z,
+  __v: 0
+}
+2025-01-23 11:47:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3de3d',
+  _id: new ObjectId('6791e61d8f99a2951b83007a'),
+  createdAt: 2025-01-23T06:47:57.879Z,
+  updatedAt: 2025-01-23T06:47:57.879Z,
+  __v: 0
+}
+2025-01-23 11:48:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd3e3d',
+  _id: new ObjectId('6791e6208f99a2951b83007e'),
+  createdAt: 2025-01-23T06:48:00.939Z,
+  updatedAt: 2025-01-23T06:48:00.939Z,
+  __v: 0
+}
+2025-01-23 12:06:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd3d',
+  _id: new ObjectId('6791ea588f99a2951b830082'),
+  createdAt: 2025-01-23T07:06:00.471Z,
+  updatedAt: 2025-01-23T07:06:00.471Z,
+  __v: 0
+}
+2025-01-23 12:06:26 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '33',
+  _id: new ObjectId('6791ea728f99a2951b830086'),
+  createdAt: 2025-01-23T07:06:26.724Z,
+  updatedAt: 2025-01-23T07:06:26.724Z,
+  __v: 0
+}
+2025-01-23 12:15:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'w2w',
+  _id: new ObjectId('6791ec828f99a2951b83008a'),
+  createdAt: 2025-01-23T07:15:14.169Z,
+  updatedAt: 2025-01-23T07:15:14.169Z,
+  __v: 0
+}
+2025-01-23 12:22:47 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd4',
+  _id: new ObjectId('6791ee478f99a2951b83008e'),
+  createdAt: 2025-01-23T07:22:47.884Z,
+  updatedAt: 2025-01-23T07:22:47.884Z,
+  __v: 0
+}
+2025-01-23 12:22:54 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '4r4r',
+  _id: new ObjectId('6791ee4e8f99a2951b830092'),
+  createdAt: 2025-01-23T07:22:54.225Z,
+  updatedAt: 2025-01-23T07:22:54.225Z,
+  __v: 0
+}
+2025-01-23 12:42:52 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3ee',
+  _id: new ObjectId('6791f2fc8f99a2951b8300b5'),
+  createdAt: 2025-01-23T07:42:52.260Z,
+  updatedAt: 2025-01-23T07:42:52.260Z,
+  __v: 0
+}
+2025-01-23 12:43:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('6791f30c8f99a2951b8300bc'),
+  createdAt: 2025-01-23T07:43:08.927Z,
+  updatedAt: 2025-01-23T07:43:08.927Z,
+  __v: 0
+}
+2025-01-23 12:43:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('6791f33b8f99a2951b8300c3'),
+  createdAt: 2025-01-23T07:43:55.178Z,
+  updatedAt: 2025-01-23T07:43:55.178Z,
+  __v: 0
+}
+2025-01-23 12:44:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('6791f3418f99a2951b8300cd'),
+  createdAt: 2025-01-23T07:44:01.581Z,
+  updatedAt: 2025-01-23T07:44:01.581Z,
+  __v: 0
+}
+2025-01-23 12:53:54 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3de3d',
+  _id: new ObjectId('6791f5928f99a2951b8300da'),
+  createdAt: 2025-01-23T07:53:54.455Z,
+  updatedAt: 2025-01-23T07:53:54.455Z,
+  __v: 0
+}
+2025-01-23 12:54:41 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('6791f5c18f99a2951b8300de'),
+  createdAt: 2025-01-23T07:54:41.968Z,
+  updatedAt: 2025-01-23T07:54:41.968Z,
+  __v: 0
+}
+2025-01-23 12:54:44 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3d3',
+  _id: new ObjectId('6791f5c48f99a2951b8300e2'),
+  createdAt: 2025-01-23T07:54:44.655Z,
+  updatedAt: 2025-01-23T07:54:44.655Z,
+  __v: 0
+}
+2025-01-23 15:14:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'yuyu',
+  _id: new ObjectId('6792167d8f99a2951b8300e6'),
+  createdAt: 2025-01-23T10:14:21.522Z,
+  updatedAt: 2025-01-23T10:14:21.522Z,
+  __v: 0
+}
+2025-01-23 15:27:36 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3e',
+  _id: new ObjectId('679219988f99a2951b8300ea'),
+  createdAt: 2025-01-23T10:27:36.385Z,
+  updatedAt: 2025-01-23T10:27:36.385Z,
+  __v: 0
+}
+2025-01-23 17:52:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'jnkj',
+  _id: new ObjectId('67923ba88f99a2951b83397e'),
+  createdAt: 2025-01-23T12:52:56.038Z,
+  updatedAt: 2025-01-23T12:52:56.038Z,
+  __v: 0
+}
+2025-01-23 18:00:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e32',
+  _id: new ObjectId('67923d6b8f99a2951b833984'),
+  createdAt: 2025-01-23T13:00:27.178Z,
+  updatedAt: 2025-01-23T13:00:27.178Z,
+  __v: 0
+}
+2025-01-23 18:06:11 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ed3',
+  _id: new ObjectId('67923ec38f99a2951b83398a'),
+  createdAt: 2025-01-23T13:06:11.405Z,
+  updatedAt: 2025-01-23T13:06:11.405Z,
+  __v: 0
+}
+2025-01-23 18:06:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3de3',
+  _id: new ObjectId('67923eef8f99a2951b83398e'),
+  createdAt: 2025-01-23T13:06:55.917Z,
+  updatedAt: 2025-01-23T13:06:55.917Z,
+  __v: 0
+}
+2025-01-23 18:07:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3d3',
+  _id: new ObjectId('67923ef48f99a2951b833992'),
+  createdAt: 2025-01-23T13:07:00.237Z,
+  updatedAt: 2025-01-23T13:07:00.237Z,
+  __v: 0
+}
+2025-01-23 18:08:11 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('67923f3b8f99a2951b833996'),
+  createdAt: 2025-01-23T13:08:11.572Z,
+  updatedAt: 2025-01-23T13:08:11.572Z,
+  __v: 0
+}
+2025-01-23 18:08:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('67923f578f99a2951b83399a'),
+  createdAt: 2025-01-23T13:08:39.085Z,
+  updatedAt: 2025-01-23T13:08:39.085Z,
+  __v: 0
+}
+2025-01-23 18:08:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('67923f5e8f99a2951b83399e'),
+  createdAt: 2025-01-23T13:08:46.311Z,
+  updatedAt: 2025-01-23T13:08:46.311Z,
+  __v: 0
+}
+2025-01-23 18:08:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '443',
+  _id: new ObjectId('67923f628f99a2951b8339a2'),
+  createdAt: 2025-01-23T13:08:50.593Z,
+  updatedAt: 2025-01-23T13:08:50.593Z,
+  __v: 0
+}
+2025-01-23 18:08:53 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('67923f658f99a2951b8339a6'),
+  createdAt: 2025-01-23T13:08:53.620Z,
+  updatedAt: 2025-01-23T13:08:53.620Z,
+  __v: 0
+}
+2025-01-23 18:10:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('67923fa98f99a2951b8339ac'),
+  createdAt: 2025-01-23T13:10:01.060Z,
+  updatedAt: 2025-01-23T13:10:01.060Z,
+  __v: 0
+}
+2025-01-23 18:11:38 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3d',
+  _id: new ObjectId('6792400a8f99a2951b8339b0'),
+  createdAt: 2025-01-23T13:11:38.248Z,
+  updatedAt: 2025-01-23T13:11:38.248Z,
+  __v: 0
+}
+2025-01-23 18:35:30 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'k',
+  _id: new ObjectId('679245a28f99a2951b8339bd'),
+  createdAt: 2025-01-23T13:35:30.724Z,
+  updatedAt: 2025-01-23T13:35:30.724Z,
+  __v: 0
+}
+2025-01-24 12:41:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3d',
+  _id: new ObjectId('67934427b0788fc59a293687'),
+  createdAt: 2025-01-24T07:41:27.405Z,
+  updatedAt: 2025-01-24T07:41:27.405Z,
+  __v: 0
+}
+2025-01-24 12:41:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3d',
+  _id: new ObjectId('67934427b0788fc59a293685'),
+  createdAt: 2025-01-24T07:41:27.351Z,
+  updatedAt: 2025-01-24T07:41:27.351Z,
+  __v: 0
+}
+2025-01-24 12:43:31 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3e3',
+  _id: new ObjectId('679344a3b0788fc59a293690'),
+  createdAt: 2025-01-24T07:43:31.448Z,
+  updatedAt: 2025-01-24T07:43:31.448Z,
+  __v: 0
+}
+2025-01-24 12:45:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'e3d3e',
+  _id: new ObjectId('6793451eb0788fc59a293694'),
+  createdAt: 2025-01-24T07:45:34.659Z,
+  updatedAt: 2025-01-24T07:45:34.659Z,
+  __v: 0
+}
+2025-01-24 12:45:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3d3',
+  _id: new ObjectId('67934527b0788fc59a29369a'),
+  createdAt: 2025-01-24T07:45:43.382Z,
+  updatedAt: 2025-01-24T07:45:43.382Z,
+  __v: 0
+}
+2025-01-24 12:47:58 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3d',
+  _id: new ObjectId('679345aeb0788fc59a29369e'),
+  createdAt: 2025-01-24T07:47:58.029Z,
+  updatedAt: 2025-01-24T07:47:58.029Z,
+  __v: 0
+}
+2025-01-24 12:47:59 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3ed',
+  _id: new ObjectId('679345afb0788fc59a2936a2'),
+  createdAt: 2025-01-24T07:47:59.624Z,
+  updatedAt: 2025-01-24T07:47:59.624Z,
+  __v: 0
+}
+2025-01-24 12:48:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'de33ed',
+  _id: new ObjectId('679345b1b0788fc59a2936a6'),
+  createdAt: 2025-01-24T07:48:01.810Z,
+  updatedAt: 2025-01-24T07:48:01.810Z,
+  __v: 0
+}
+2025-01-24 12:49:10 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3e',
+  _id: new ObjectId('679345f6b0788fc59a2936aa'),
+  createdAt: 2025-01-24T07:49:10.047Z,
+  updatedAt: 2025-01-24T07:49:10.047Z,
+  __v: 0
+}
+2025-01-24 12:51:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd3e',
+  _id: new ObjectId('67934665b0788fc59a2936ae'),
+  createdAt: 2025-01-24T07:51:01.709Z,
+  updatedAt: 2025-01-24T07:51:01.709Z,
+  __v: 0
+}
+2025-01-24 13:35:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'w2d2',
+  _id: new ObjectId('679350e5b0788fc59a2936be'),
+  createdAt: 2025-01-24T08:35:49.204Z,
+  updatedAt: 2025-01-24T08:35:49.204Z,
+  __v: 0
+}
+2025-01-24 13:36:37 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'dd',
+  _id: new ObjectId('67935115b0788fc59a2936c2'),
+  createdAt: 2025-01-24T08:36:37.216Z,
+  updatedAt: 2025-01-24T08:36:37.216Z,
+  __v: 0
+}
+2025-01-24 13:36:40 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '2d3e',
+  _id: new ObjectId('67935118b0788fc59a2936c6'),
+  createdAt: 2025-01-24T08:36:40.379Z,
+  updatedAt: 2025-01-24T08:36:40.379Z,
+  __v: 0
+}
+2025-01-24 13:36:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '3dd',
+  _id: new ObjectId('67935121b0788fc59a2936ca'),
+  createdAt: 2025-01-24T08:36:49.117Z,
+  updatedAt: 2025-01-24T08:36:49.117Z,
+  __v: 0
+}
+2025-01-24 13:37:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'eded',
+  _id: new ObjectId('6793514fb0788fc59a2936ce'),
+  createdAt: 2025-01-24T08:37:35.744Z,
+  updatedAt: 2025-01-24T08:37:35.744Z,
+  __v: 0
+}
+2025-01-24 13:40:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '33',
+  _id: new ObjectId('679351f8b0788fc59a2936d2'),
+  createdAt: 2025-01-24T08:40:24.020Z,
+  updatedAt: 2025-01-24T08:40:24.020Z,
+  __v: 0
+}
+2025-01-24 13:41:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'jkjkj',
+  _id: new ObjectId('6793522fb0788fc59a2936d6'),
+  createdAt: 2025-01-24T08:41:19.651Z,
+  updatedAt: 2025-01-24T08:41:19.651Z,
+  __v: 0
+}
+2025-01-24 13:41:37 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'iiiiiiiiiiii',
+  _id: new ObjectId('67935241b0788fc59a2936da'),
+  createdAt: 2025-01-24T08:41:37.640Z,
+  updatedAt: 2025-01-24T08:41:37.640Z,
+  __v: 0
+}
+2025-01-24 13:47:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '2e2n',
+  _id: new ObjectId('679353abb0788fc59a2936e3'),
+  createdAt: 2025-01-24T08:47:39.938Z,
+  updatedAt: 2025-01-24T08:47:39.938Z,
+  __v: 0
+}
+2025-01-24 13:50:28 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd3e3e',
+  _id: new ObjectId('67935454b0788fc59a2936eb'),
+  createdAt: 2025-01-24T08:50:28.034Z,
+  updatedAt: 2025-01-24T08:50:28.034Z,
+  __v: 0
+}
+2025-01-24 13:53:10 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'd3',
+  _id: new ObjectId('679354f6b0788fc59a2936ef'),
+  createdAt: 2025-01-24T08:53:10.210Z,
+  updatedAt: 2025-01-24T08:53:10.210Z,
+  __v: 0
+}
+2025-01-24 13:53:28 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3e3',
+  _id: new ObjectId('67935508b0788fc59a2936f5'),
+  createdAt: 2025-01-24T08:53:28.381Z,
+  updatedAt: 2025-01-24T08:53:28.381Z,
+  __v: 0
+}
+2025-01-24 13:53:31 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('6793550bb0788fc59a2936f9'),
+  createdAt: 2025-01-24T08:53:31.997Z,
+  updatedAt: 2025-01-24T08:53:31.997Z,
+  __v: 0
+}
+2025-01-24 13:53:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'e3e3',
+  _id: new ObjectId('6793550fb0788fc59a2936fd'),
+  createdAt: 2025-01-24T08:53:35.186Z,
+  updatedAt: 2025-01-24T08:53:35.186Z,
+  __v: 0
+}
+2025-01-24 13:53:44 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'rf4r',
+  _id: new ObjectId('67935518b0788fc59a293701'),
+  createdAt: 2025-01-24T08:53:44.661Z,
+  updatedAt: 2025-01-24T08:53:44.661Z,
+  __v: 0
+}
+2025-01-24 13:54:44 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'w2e2',
+  _id: new ObjectId('67935554b0788fc59a293709'),
+  createdAt: 2025-01-24T08:54:44.410Z,
+  updatedAt: 2025-01-24T08:54:44.410Z,
+  __v: 0
+}
+2025-01-24 13:54:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '1111',
+  _id: new ObjectId('6793555fb0788fc59a29370d'),
+  createdAt: 2025-01-24T08:54:55.402Z,
+  updatedAt: 2025-01-24T08:54:55.402Z,
+  __v: 0
+}
+2025-01-24 13:55:03 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '1111',
+  _id: new ObjectId('67935567b0788fc59a293711'),
+  createdAt: 2025-01-24T08:55:03.752Z,
+  updatedAt: 2025-01-24T08:55:03.752Z,
+  __v: 0
+}
+2025-01-24 13:55:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '1111',
+  _id: new ObjectId('6793556ab0788fc59a293715'),
+  createdAt: 2025-01-24T08:55:06.617Z,
+  updatedAt: 2025-01-24T08:55:06.617Z,
+  __v: 0
+}
+2025-01-24 13:55:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '1111',
+  _id: new ObjectId('6793556db0788fc59a293719'),
+  createdAt: 2025-01-24T08:55:09.009Z,
+  updatedAt: 2025-01-24T08:55:09.009Z,
+  __v: 0
+}
+2025-01-24 13:55:20 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '1111',
+  _id: new ObjectId('67935578b0788fc59a29371f'),
+  createdAt: 2025-01-24T08:55:20.878Z,
+  updatedAt: 2025-01-24T08:55:20.878Z,
+  __v: 0
+}
+2025-01-24 13:57:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('679355e2b0788fc59a293725'),
+  createdAt: 2025-01-24T08:57:06.944Z,
+  updatedAt: 2025-01-24T08:57:06.944Z,
+  __v: 0
+}
+2025-01-24 13:57:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3dee3',
+  _id: new ObjectId('679355e9b0788fc59a293729'),
+  createdAt: 2025-01-24T08:57:13.876Z,
+  updatedAt: 2025-01-24T08:57:13.876Z,
+  __v: 0
+}
+2025-01-24 13:57:41 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3',
+  _id: new ObjectId('67935605b0788fc59a29372d'),
+  createdAt: 2025-01-24T08:57:41.868Z,
+  updatedAt: 2025-01-24T08:57:41.868Z,
+  __v: 0
+}
+2025-01-24 13:57:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '111',
+  _id: new ObjectId('6793560db0788fc59a293731'),
+  createdAt: 2025-01-24T08:57:49.950Z,
+  updatedAt: 2025-01-24T08:57:49.950Z,
+  __v: 0
+}
+2025-01-24 13:57:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '2222',
+  _id: new ObjectId('67935615b0788fc59a293735'),
+  createdAt: 2025-01-24T08:57:57.340Z,
+  updatedAt: 2025-01-24T08:57:57.340Z,
+  __v: 0
+}
+2025-01-24 13:58:07 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3333',
+  _id: new ObjectId('6793561fb0788fc59a29373b'),
+  createdAt: 2025-01-24T08:58:07.945Z,
+  updatedAt: 2025-01-24T08:58:07.945Z,
+  __v: 0
+}
+2025-01-24 14:00:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '3e3e',
+  _id: new ObjectId('679356c7b0788fc59a293741'),
+  createdAt: 2025-01-24T09:00:55.387Z,
+  updatedAt: 2025-01-24T09:00:55.387Z,
+  __v: 0
+}
+2025-01-24 14:01:48 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '22',
+  _id: new ObjectId('679356fcb0788fc59a293747'),
+  createdAt: 2025-01-24T09:01:48.511Z,
+  updatedAt: 2025-01-24T09:01:48.511Z,
+  __v: 0
+}
+2025-01-24 14:01:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'e3e',
+  _id: new ObjectId('67935704b0788fc59a29374b'),
+  createdAt: 2025-01-24T09:01:56.581Z,
+  updatedAt: 2025-01-24T09:01:56.581Z,
+  __v: 0
+}
+2025-01-24 14:02:18 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'w2w',
+  _id: new ObjectId('6793571ab0788fc59a293751'),
+  createdAt: 2025-01-24T09:02:18.284Z,
+  updatedAt: 2025-01-24T09:02:18.284Z,
+  __v: 0
+}
+2025-01-24 14:03:15 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3',
+  _id: new ObjectId('67935753b0788fc59a293755'),
+  createdAt: 2025-01-24T09:03:15.346Z,
+  updatedAt: 2025-01-24T09:03:15.346Z,
+  __v: 0
+}
+2025-01-24 14:04:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3e3',
+  _id: new ObjectId('679357b1b0788fc59a293759'),
+  createdAt: 2025-01-24T09:04:49.104Z,
+  updatedAt: 2025-01-24T09:04:49.104Z,
+  __v: 0
+}
+2025-01-24 14:04:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '444444444',
+  _id: new ObjectId('679357b9b0788fc59a29375d'),
+  createdAt: 2025-01-24T09:04:57.532Z,
+  updatedAt: 2025-01-24T09:04:57.532Z,
+  __v: 0
+}
+2025-01-24 14:06:15 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '2e3',
+  _id: new ObjectId('67935807b0788fc59a293761'),
+  createdAt: 2025-01-24T09:06:15.520Z,
+  updatedAt: 2025-01-24T09:06:15.520Z,
+  __v: 0
+}
+2025-01-24 14:06:52 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'w2e3',
+  _id: new ObjectId('6793582cb0788fc59a293765'),
+  createdAt: 2025-01-24T09:06:52.910Z,
+  updatedAt: 2025-01-24T09:06:52.910Z,
+  __v: 0
+}
+2025-01-24 14:07:58 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'de3d',
+  _id: new ObjectId('6793586eb0788fc59a293769'),
+  createdAt: 2025-01-24T09:07:58.847Z,
+  updatedAt: 2025-01-24T09:07:58.847Z,
+  __v: 0
+}
+2025-01-24 14:08:04 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3e3',
+  _id: new ObjectId('67935874b0788fc59a29376d'),
+  createdAt: 2025-01-24T09:08:04.928Z,
+  updatedAt: 2025-01-24T09:08:04.928Z,
+  __v: 0
+}
+2025-01-24 14:09:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '2d',
+  _id: new ObjectId('679358dab0788fc59a293771'),
+  createdAt: 2025-01-24T09:09:46.489Z,
+  updatedAt: 2025-01-24T09:09:46.489Z,
+  __v: 0
+}
+2025-01-24 14:09:51 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e32e',
+  _id: new ObjectId('679358dfb0788fc59a293775'),
+  createdAt: 2025-01-24T09:09:51.032Z,
+  updatedAt: 2025-01-24T09:09:51.032Z,
+  __v: 0
+}
+2025-01-24 14:14:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3e',
+  _id: new ObjectId('679359e6b0788fc59a29377d'),
+  createdAt: 2025-01-24T09:14:14.285Z,
+  updatedAt: 2025-01-24T09:14:14.285Z,
+  __v: 0
+}
+2025-01-24 14:14:31 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '2w2w',
+  _id: new ObjectId('679359f7b0788fc59a293783'),
+  createdAt: 2025-01-24T09:14:31.925Z,
+  updatedAt: 2025-01-24T09:14:31.925Z,
+  __v: 0
+}
+2025-01-24 14:14:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '2w2',
+  _id: new ObjectId('679359fbb0788fc59a293787'),
+  createdAt: 2025-01-24T09:14:35.621Z,
+  updatedAt: 2025-01-24T09:14:35.621Z,
+  __v: 0
+}
+2025-01-24 14:14:38 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '23ew',
+  _id: new ObjectId('679359feb0788fc59a29378b'),
+  createdAt: 2025-01-24T09:14:38.872Z,
+  updatedAt: 2025-01-24T09:14:38.872Z,
+  __v: 0
+}
+2025-01-24 14:15:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'e3',
+  _id: new ObjectId('67935a3fb0788fc59a29378f'),
+  createdAt: 2025-01-24T09:15:43.377Z,
+  updatedAt: 2025-01-24T09:15:43.377Z,
+  __v: 0
+}
+2025-01-24 14:18:18 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3e3',
+  _id: new ObjectId('67935adab0788fc59a293795'),
+  createdAt: 2025-01-24T09:18:18.059Z,
+  updatedAt: 2025-01-24T09:18:18.059Z,
+  __v: 0
+}
+2025-01-24 14:18:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3e',
+  _id: new ObjectId('67935adfb0788fc59a293799'),
+  createdAt: 2025-01-24T09:18:23.199Z,
+  updatedAt: 2025-01-24T09:18:23.199Z,
+  __v: 0
+}
+2025-01-24 14:19:05 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('67935b09b0788fc59a29379d'),
+  createdAt: 2025-01-24T09:19:05.621Z,
+  updatedAt: 2025-01-24T09:19:05.621Z,
+  __v: 0
+}
+2025-01-24 14:19:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '32e',
+  _id: new ObjectId('67935b12b0788fc59a2937a1'),
+  createdAt: 2025-01-24T09:19:14.719Z,
+  updatedAt: 2025-01-24T09:19:14.719Z,
+  __v: 0
+}
+2025-01-24 14:20:52 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'mm ',
+  _id: new ObjectId('67935b74b0788fc59a2937a7'),
+  createdAt: 2025-01-24T09:20:52.338Z,
+  updatedAt: 2025-01-24T09:20:52.338Z,
+  __v: 0
+}
+2025-01-24 14:21:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '22',
+  _id: new ObjectId('67935b8ab0788fc59a2937ad'),
+  createdAt: 2025-01-24T09:21:14.626Z,
+  updatedAt: 2025-01-24T09:21:14.626Z,
+  __v: 0
+}
+2025-01-24 14:25:30 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e23',
+  _id: new ObjectId('67935c8ab0788fc59a2937b1'),
+  createdAt: 2025-01-24T09:25:30.926Z,
+  updatedAt: 2025-01-24T09:25:30.926Z,
+  __v: 0
+}
+2025-01-24 14:28:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'w',
+  _id: new ObjectId('67935d4eb0788fc59a2937b7'),
+  createdAt: 2025-01-24T09:28:46.815Z,
+  updatedAt: 2025-01-24T09:28:46.815Z,
+  __v: 0
+}
+2025-01-24 14:28:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'w',
+  _id: new ObjectId('67935d4eb0788fc59a2937bf'),
+  createdAt: 2025-01-24T09:28:46.844Z,
+  updatedAt: 2025-01-24T09:28:46.844Z,
+  __v: 0
+}
+2025-01-24 14:28:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '2',
+  _id: new ObjectId('67935d4eb0788fc59a2937c1'),
+  createdAt: 2025-01-24T09:28:46.848Z,
+  updatedAt: 2025-01-24T09:28:46.848Z,
+  __v: 0
+}
+2025-01-24 14:28:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '2',
+  _id: new ObjectId('67935d4eb0788fc59a2937c3'),
+  createdAt: 2025-01-24T09:28:46.861Z,
+  updatedAt: 2025-01-24T09:28:46.861Z,
+  __v: 0
+}
+2025-01-24 14:28:47 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '2',
+  _id: new ObjectId('67935d4fb0788fc59a2937c9'),
+  createdAt: 2025-01-24T09:28:47.035Z,
+  updatedAt: 2025-01-24T09:28:47.035Z,
+  __v: 0
+}
+2025-01-24 14:28:47 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '2',
+  _id: new ObjectId('67935d4fb0788fc59a2937cb'),
+  createdAt: 2025-01-24T09:28:47.036Z,
+  updatedAt: 2025-01-24T09:28:47.036Z,
+  __v: 0
+}
+2025-01-24 14:28:48 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d50b0788fc59a2937d1'),
+  createdAt: 2025-01-24T09:28:48.185Z,
+  updatedAt: 2025-01-24T09:28:48.185Z,
+  __v: 0
+}
+2025-01-24 14:28:48 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d50b0788fc59a2937d3'),
+  createdAt: 2025-01-24T09:28:48.187Z,
+  updatedAt: 2025-01-24T09:28:48.187Z,
+  __v: 0
+}
+2025-01-24 14:28:48 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d50b0788fc59a2937d9'),
+  createdAt: 2025-01-24T09:28:48.681Z,
+  updatedAt: 2025-01-24T09:28:48.681Z,
+  __v: 0
+}
+2025-01-24 14:28:48 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d50b0788fc59a2937db'),
+  createdAt: 2025-01-24T09:28:48.683Z,
+  updatedAt: 2025-01-24T09:28:48.683Z,
+  __v: 0
+}
+2025-01-24 14:28:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d51b0788fc59a2937df'),
+  createdAt: 2025-01-24T09:28:49.060Z,
+  updatedAt: 2025-01-24T09:28:49.060Z,
+  __v: 0
+}
+2025-01-24 14:28:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d51b0788fc59a2937e3'),
+  createdAt: 2025-01-24T09:28:49.079Z,
+  updatedAt: 2025-01-24T09:28:49.079Z,
+  __v: 0
+}
+2025-01-24 14:28:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d52b0788fc59a2937e9'),
+  createdAt: 2025-01-24T09:28:50.407Z,
+  updatedAt: 2025-01-24T09:28:50.407Z,
+  __v: 0
+}
+2025-01-24 14:28:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d52b0788fc59a2937eb'),
+  createdAt: 2025-01-24T09:28:50.408Z,
+  updatedAt: 2025-01-24T09:28:50.408Z,
+  __v: 0
+}
+2025-01-24 14:28:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d52b0788fc59a2937f1'),
+  createdAt: 2025-01-24T09:28:50.752Z,
+  updatedAt: 2025-01-24T09:28:50.752Z,
+  __v: 0
+}
+2025-01-24 14:28:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d52b0788fc59a2937f3'),
+  createdAt: 2025-01-24T09:28:50.754Z,
+  updatedAt: 2025-01-24T09:28:50.754Z,
+  __v: 0
+}
+2025-01-24 14:28:51 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d53b0788fc59a2937f8'),
+  createdAt: 2025-01-24T09:28:51.650Z,
+  updatedAt: 2025-01-24T09:28:51.650Z,
+  __v: 0
+}
+2025-01-24 14:28:51 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d53b0788fc59a2937fb'),
+  createdAt: 2025-01-24T09:28:51.653Z,
+  updatedAt: 2025-01-24T09:28:51.653Z,
+  __v: 0
+}
+2025-01-24 14:28:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d59b0788fc59a2937ff'),
+  createdAt: 2025-01-24T09:28:57.659Z,
+  updatedAt: 2025-01-24T09:28:57.659Z,
+  __v: 0
+}
+2025-01-24 14:28:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d59b0788fc59a293803'),
+  createdAt: 2025-01-24T09:28:57.716Z,
+  updatedAt: 2025-01-24T09:28:57.716Z,
+  __v: 0
+}
+2025-01-24 14:29:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3',
+  _id: new ObjectId('67935d6db0788fc59a293809'),
+  createdAt: 2025-01-24T09:29:17.667Z,
+  updatedAt: 2025-01-24T09:29:17.667Z,
+  __v: 0
+}
+2025-01-24 14:29:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3',
+  _id: new ObjectId('67935d6db0788fc59a29380b'),
+  createdAt: 2025-01-24T09:29:17.668Z,
+  updatedAt: 2025-01-24T09:29:17.668Z,
+  __v: 0
+}
+2025-01-24 14:29:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d6db0788fc59a293811'),
+  createdAt: 2025-01-24T09:29:17.761Z,
+  updatedAt: 2025-01-24T09:29:17.761Z,
+  __v: 0
+}
+2025-01-24 14:29:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d6db0788fc59a293813'),
+  createdAt: 2025-01-24T09:29:17.763Z,
+  updatedAt: 2025-01-24T09:29:17.763Z,
+  __v: 0
+}
+2025-01-24 14:29:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d6fb0788fc59a293817'),
+  createdAt: 2025-01-24T09:29:19.373Z,
+  updatedAt: 2025-01-24T09:29:19.373Z,
+  __v: 0
+}
+2025-01-24 14:29:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'd',
+  _id: new ObjectId('67935d6fb0788fc59a29381d'),
+  createdAt: 2025-01-24T09:29:19.390Z,
+  updatedAt: 2025-01-24T09:29:19.390Z,
+  __v: 0
+}
+2025-01-24 14:29:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'e',
+  _id: new ObjectId('67935d6fb0788fc59a29381f'),
+  createdAt: 2025-01-24T09:29:19.392Z,
+  updatedAt: 2025-01-24T09:29:19.392Z,
+  __v: 0
+}
+2025-01-24 14:29:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'e',
+  _id: new ObjectId('67935d6fb0788fc59a293823'),
+  createdAt: 2025-01-24T09:29:19.411Z,
+  updatedAt: 2025-01-24T09:29:19.411Z,
+  __v: 0
+}
+2025-01-24 14:29:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3',
+  _id: new ObjectId('67935d6fb0788fc59a293829'),
+  createdAt: 2025-01-24T09:29:19.458Z,
+  updatedAt: 2025-01-24T09:29:19.458Z,
+  __v: 0
+}
+2025-01-24 14:29:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3',
+  _id: new ObjectId('67935d6fb0788fc59a29382b'),
+  createdAt: 2025-01-24T09:29:19.459Z,
+  updatedAt: 2025-01-24T09:29:19.459Z,
+  __v: 0
+}
+2025-01-24 14:29:47 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3d',
+  _id: new ObjectId('67935d8bb0788fc59a29382f'),
+  createdAt: 2025-01-24T09:29:47.141Z,
+  updatedAt: 2025-01-24T09:29:47.141Z,
+  __v: 0
+}
+2025-01-24 14:29:53 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'dd',
+  _id: new ObjectId('67935d91b0788fc59a293835'),
+  createdAt: 2025-01-24T09:29:53.615Z,
+  updatedAt: 2025-01-24T09:29:53.615Z,
+  __v: 0
+}
+2025-01-24 14:30:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'de3',
+  _id: new ObjectId('67935d98b0788fc59a293839'),
+  createdAt: 2025-01-24T09:30:00.361Z,
+  updatedAt: 2025-01-24T09:30:00.361Z,
+  __v: 0
+}
+2025-01-24 15:00:58 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '2e2kj',
+  _id: new ObjectId('679364dab0788fc59a29383f'),
+  createdAt: 2025-01-24T10:00:58.044Z,
+  updatedAt: 2025-01-24T10:00:58.044Z,
+  __v: 0
+}
+2025-01-24 15:01:05 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3e',
+  _id: new ObjectId('679364e1b0788fc59a293843'),
+  createdAt: 2025-01-24T10:01:05.377Z,
+  updatedAt: 2025-01-24T10:01:05.377Z,
+  __v: 0
+}
+2025-01-24 15:01:26 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679364f6b0788fc59a293847'),
+  createdAt: 2025-01-24T10:01:26.796Z,
+  updatedAt: 2025-01-24T10:01:26.796Z,
+  __v: 0
+}
+2025-01-24 15:02:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '3d3',
+  _id: new ObjectId('67936521b0788fc59a29384d'),
+  createdAt: 2025-01-24T10:02:09.091Z,
+  updatedAt: 2025-01-24T10:02:09.091Z,
+  __v: 0
+}
+2025-01-24 15:02:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'mmnm',
+  _id: new ObjectId('6793654fb0788fc59a293855'),
+  createdAt: 2025-01-24T10:02:55.204Z,
+  updatedAt: 2025-01-24T10:02:55.204Z,
+  __v: 0
+}
+2025-01-24 15:04:15 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('6793659fb0788fc59a29385b'),
+  createdAt: 2025-01-24T10:04:15.087Z,
+  updatedAt: 2025-01-24T10:04:15.087Z,
+  __v: 0
+}
+2025-01-24 15:04:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'by',
+  _id: new ObjectId('679365a8b0788fc59a29385f'),
+  createdAt: 2025-01-24T10:04:24.762Z,
+  updatedAt: 2025-01-24T10:04:24.762Z,
+  __v: 0
+}
+2025-01-24 15:05:03 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'mmnm,',
+  _id: new ObjectId('679365cfb0788fc59a293865'),
+  createdAt: 2025-01-24T10:05:03.828Z,
+  updatedAt: 2025-01-24T10:05:03.828Z,
+  __v: 0
+}
+2025-01-24 15:05:16 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('679365dcb0788fc59a293869'),
+  createdAt: 2025-01-24T10:05:16.189Z,
+  updatedAt: 2025-01-24T10:05:16.189Z,
+  __v: 0
+}
+2025-01-24 15:07:11 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'iui',
+  _id: new ObjectId('6793664fb0788fc59a29386f'),
+  createdAt: 2025-01-24T10:07:11.718Z,
+  updatedAt: 2025-01-24T10:07:11.718Z,
+  __v: 0
+}
+2025-01-24 15:09:42 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'jnkj',
+  _id: new ObjectId('679366e6b0788fc59a293875'),
+  createdAt: 2025-01-24T10:09:42.566Z,
+  updatedAt: 2025-01-24T10:09:42.566Z,
+  __v: 0
+}
+2025-01-24 15:17:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'jnjnj',
+  _id: new ObjectId('679368bfb0788fc59a29387d'),
+  createdAt: 2025-01-24T10:17:35.023Z,
+  updatedAt: 2025-01-24T10:17:35.023Z,
+  __v: 0
+}
+2025-01-24 15:18:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'mkm',
+  _id: new ObjectId('679368edb0788fc59a293885'),
+  createdAt: 2025-01-24T10:18:21.233Z,
+  updatedAt: 2025-01-24T10:18:21.233Z,
+  __v: 0
+}
+2025-01-24 15:21:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'jjj',
+  _id: new ObjectId('679369c4b0788fc59a29388e'),
+  createdAt: 2025-01-24T10:21:56.864Z,
+  updatedAt: 2025-01-24T10:21:56.864Z,
+  __v: 0
+}
+2025-01-24 15:35:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3e3',
+  _id: new ObjectId('67936cebb0788fc59a29469d'),
+  createdAt: 2025-01-24T10:35:23.791Z,
+  updatedAt: 2025-01-24T10:35:23.791Z,
+  __v: 0
+}
+2025-01-24 15:37:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3e3',
+  _id: new ObjectId('67936d6fb0788fc59a2986d6'),
+  createdAt: 2025-01-24T10:37:35.706Z,
+  updatedAt: 2025-01-24T10:37:35.706Z,
+  __v: 0
+}
+2025-01-24 15:39:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('67936dd5b0788fc59a298780'),
+  createdAt: 2025-01-24T10:39:17.519Z,
+  updatedAt: 2025-01-24T10:39:17.519Z,
+  __v: 0
+}
+2025-01-24 16:50:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('67937e71b0788fc59a2987ca'),
+  createdAt: 2025-01-24T11:50:09.648Z,
+  updatedAt: 2025-01-24T11:50:09.648Z,
+  __v: 0
+}
+2025-01-24 16:50:33 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '4e',
+  _id: new ObjectId('67937e89b0788fc59a2987ce'),
+  createdAt: 2025-01-24T11:50:33.004Z,
+  updatedAt: 2025-01-24T11:50:33.004Z,
+  __v: 0
+}
+2025-01-24 16:53:28 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'e34',
+  _id: new ObjectId('67937f38b0788fc59a2987dd'),
+  createdAt: 2025-01-24T11:53:28.655Z,
+  updatedAt: 2025-01-24T11:53:28.655Z,
+  __v: 0
+}
+2025-01-24 16:54:58 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'e3e',
+  _id: new ObjectId('67937f92b0788fc59a298802'),
+  createdAt: 2025-01-24T11:54:58.567Z,
+  updatedAt: 2025-01-24T11:54:58.567Z,
+  __v: 0
+}
+2025-01-24 16:57:45 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'e3e',
+  _id: new ObjectId('67938039b0788fc59a29881e'),
+  createdAt: 2025-01-24T11:57:45.367Z,
+  updatedAt: 2025-01-24T11:57:45.367Z,
+  __v: 0
+}
+2025-01-24 16:58:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'e4e',
+  _id: new ObjectId('6793807ab0788fc59a29882b'),
+  createdAt: 2025-01-24T11:58:50.745Z,
+  updatedAt: 2025-01-24T11:58:50.745Z,
+  __v: 0
+}
+2025-01-24 16:59:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e4',
+  _id: new ObjectId('67938085b0788fc59a298838'),
+  createdAt: 2025-01-24T11:59:01.905Z,
+  updatedAt: 2025-01-24T11:59:01.905Z,
+  __v: 0
+}
+2025-01-24 16:59:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('67938095b0788fc59a298845'),
+  createdAt: 2025-01-24T11:59:17.242Z,
+  updatedAt: 2025-01-24T11:59:17.242Z,
+  __v: 0
+}
+2025-01-24 17:00:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'w3e',
+  _id: new ObjectId('679380f9b0788fc59a29884f'),
+  createdAt: 2025-01-24T12:00:57.925Z,
+  updatedAt: 2025-01-24T12:00:57.925Z,
+  __v: 0
+}
+2025-01-24 17:01:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '4',
+  _id: new ObjectId('67938113b0788fc59a298864'),
+  createdAt: 2025-01-24T12:01:23.062Z,
+  updatedAt: 2025-01-24T12:01:23.062Z,
+  __v: 0
+}
+2025-01-24 17:03:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'd4',
+  _id: new ObjectId('67938175b0788fc59a298877'),
+  createdAt: 2025-01-24T12:03:01.466Z,
+  updatedAt: 2025-01-24T12:03:01.466Z,
+  __v: 0
+}
+2025-01-24 17:05:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '43r',
+  _id: new ObjectId('679381edb0788fc59a298887'),
+  createdAt: 2025-01-24T12:05:01.985Z,
+  updatedAt: 2025-01-24T12:05:01.985Z,
+  __v: 0
+}
+2025-01-24 17:05:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'e4r',
+  _id: new ObjectId('679381f4b0788fc59a298891'),
+  createdAt: 2025-01-24T12:05:08.035Z,
+  updatedAt: 2025-01-24T12:05:08.035Z,
+  __v: 0
+}
+2025-01-24 17:06:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'd3',
+  _id: new ObjectId('6793822eb0788fc59a29889e'),
+  createdAt: 2025-01-24T12:06:06.778Z,
+  updatedAt: 2025-01-24T12:06:06.778Z,
+  __v: 0
+}
+2025-01-24 17:14:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '3d3',
+  _id: new ObjectId('6793840eb0788fc59a2988ae'),
+  createdAt: 2025-01-24T12:14:06.201Z,
+  updatedAt: 2025-01-24T12:14:06.201Z,
+  __v: 0
+}
+2025-01-24 17:14:10 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '3de3d',
+  _id: new ObjectId('67938412b0788fc59a2988b5'),
+  createdAt: 2025-01-24T12:14:10.092Z,
+  updatedAt: 2025-01-24T12:14:10.092Z,
+  __v: 0
+}
+2025-01-24 17:14:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '3de3d',
+  _id: new ObjectId('67938415b0788fc59a2988bc'),
+  createdAt: 2025-01-24T12:14:13.166Z,
+  updatedAt: 2025-01-24T12:14:13.166Z,
+  __v: 0
+}
+2025-01-24 17:14:25 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '3d',
+  _id: new ObjectId('67938421b0788fc59a2988cc'),
+  createdAt: 2025-01-24T12:14:25.284Z,
+  updatedAt: 2025-01-24T12:14:25.284Z,
+  __v: 0
+}
+2025-01-24 17:14:51 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e',
+  _id: new ObjectId('6793843bb0788fc59a2988d9'),
+  createdAt: 2025-01-24T12:14:51.381Z,
+  updatedAt: 2025-01-24T12:14:51.381Z,
+  __v: 0
+}
+2025-01-24 17:16:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hy',
+  _id: new ObjectId('6793849bb0788fc59a298901'),
+  createdAt: 2025-01-24T12:16:27.228Z,
+  updatedAt: 2025-01-24T12:16:27.228Z,
+  __v: 0
+}
+2025-01-24 17:18:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '3e3e',
+  _id: new ObjectId('67938523b0788fc59a29890e'),
+  createdAt: 2025-01-24T12:18:43.472Z,
+  updatedAt: 2025-01-24T12:18:43.472Z,
+  __v: 0
+}
+2025-01-24 17:19:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'e4e',
+  _id: new ObjectId('6793854bb0788fc59a29891e'),
+  createdAt: 2025-01-24T12:19:23.352Z,
+  updatedAt: 2025-01-24T12:19:23.352Z,
+  __v: 0
+}
+2025-01-24 17:20:38 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'ee',
+  _id: new ObjectId('67938596b0788fc59a298934'),
+  createdAt: 2025-01-24T12:20:38.071Z,
+  updatedAt: 2025-01-24T12:20:38.071Z,
+  __v: 0
+}
+2025-01-24 17:20:51 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hy',
+  _id: new ObjectId('679385a3b0788fc59a29893e'),
+  createdAt: 2025-01-24T12:20:51.838Z,
+  updatedAt: 2025-01-24T12:20:51.838Z,
+  __v: 0
+}
+2025-01-24 17:21:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('679385b9b0788fc59a29894e'),
+  createdAt: 2025-01-24T12:21:13.855Z,
+  updatedAt: 2025-01-24T12:21:13.855Z,
+  __v: 0
+}
+2025-01-24 17:21:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'by',
+  _id: new ObjectId('679385c7b0788fc59a29895b'),
+  createdAt: 2025-01-24T12:21:27.567Z,
+  updatedAt: 2025-01-24T12:21:27.567Z,
+  __v: 0
+}
+2025-01-24 17:22:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'tytyy',
+  _id: new ObjectId('6793860fb0788fc59a298965'),
+  createdAt: 2025-01-24T12:22:39.625Z,
+  updatedAt: 2025-01-24T12:22:39.625Z,
+  __v: 0
+}
+2025-01-24 17:27:40 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'tyfydyd',
+  _id: new ObjectId('6793873c0b0b699ac1fbe461'),
+  createdAt: 2025-01-24T12:27:40.783Z,
+  updatedAt: 2025-01-24T12:27:40.783Z,
+  __v: 0
+}
+2025-01-24 17:29:28 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'trtr',
+  _id: new ObjectId('679387a80b0b699ac1fbe46d'),
+  createdAt: 2025-01-24T12:29:28.608Z,
+  updatedAt: 2025-01-24T12:29:28.608Z,
+  __v: 0
+}
+2025-01-24 17:36:38 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('679389560b0b699ac1fbe4a1'),
+  createdAt: 2025-01-24T12:36:38.562Z,
+  updatedAt: 2025-01-24T12:36:38.562Z,
+  __v: 0
+}
+2025-01-24 17:37:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'jknjkkn',
+  _id: new ObjectId('679389a40b0b699ac1fbe4b1'),
+  createdAt: 2025-01-24T12:37:56.587Z,
+  updatedAt: 2025-01-24T12:37:56.587Z,
+  __v: 0
+}
+2025-01-28 15:54:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'fr',
+  _id: new ObjectId('6798b7633b5442aea50111ed'),
+  createdAt: 2025-01-28T10:54:27.131Z,
+  updatedAt: 2025-01-28T10:54:27.131Z,
+  __v: 0
+}
+2025-01-28 16:18:47 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'nnkmk',
+  _id: new ObjectId('6798bd173b5442aea5011213'),
+  createdAt: 2025-01-28T11:18:47.139Z,
+  updatedAt: 2025-01-28T11:18:47.139Z,
+  __v: 0
+}
+2025-01-28 16:19:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'mnm',
+  _id: new ObjectId('6798bd5b3b5442aea5011221'),
+  createdAt: 2025-01-28T11:19:55.542Z,
+  updatedAt: 2025-01-28T11:19:55.542Z,
+  __v: 0
+}
+2025-01-28 16:23:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'm ,mm',
+  _id: new ObjectId('6798be253b5442aea501123e'),
+  createdAt: 2025-01-28T11:23:17.504Z,
+  updatedAt: 2025-01-28T11:23:17.504Z,
+  __v: 0
+}
+2025-01-28 16:24:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'mkm',
+  _id: new ObjectId('6798be883b5442aea5011250'),
+  createdAt: 2025-01-28T11:24:56.430Z,
+  updatedAt: 2025-01-28T11:24:56.430Z,
+  __v: 0
+}
+2025-01-28 17:07:48 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'ya kisi kam ka nhi hai',
+  _id: new ObjectId('6798c8943b5442aea5011268'),
+  createdAt: 2025-01-28T12:07:48.022Z,
+  updatedAt: 2025-01-28T12:07:48.022Z,
+  __v: 0
+}
+2025-01-28 17:08:04 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'ya api kharab hai',
+  _id: new ObjectId('6798c8a43b5442aea501126c'),
+  createdAt: 2025-01-28T12:08:04.597Z,
+  updatedAt: 2025-01-28T12:08:04.597Z,
+  __v: 0
+}
+2025-01-28 18:04:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hello',
+  _id: new ObjectId('6798d5e23b5442aea50112e4'),
+  createdAt: 2025-01-28T13:04:34.189Z,
+  updatedAt: 2025-01-28T13:04:34.189Z,
+  __v: 0
+}
+2025-01-28 18:04:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hello231',
+  _id: new ObjectId('6798d5eb3b5442aea50112e8'),
+  createdAt: 2025-01-28T13:04:43.627Z,
+  updatedAt: 2025-01-28T13:04:43.627Z,
+  __v: 0
+}
+2025-01-28 18:07:33 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hello2321312',
+  _id: new ObjectId('6798d6953b5442aea5011309'),
+  createdAt: 2025-01-28T13:07:33.500Z,
+  updatedAt: 2025-01-28T13:07:33.500Z,
+  __v: 0
+}
+2025-01-28 18:07:58 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'helli',
+  _id: new ObjectId('6798d6ae3b5442aea501130d'),
+  createdAt: 2025-01-28T13:07:58.763Z,
+  updatedAt: 2025-01-28T13:07:58.763Z,
+  __v: 0
+}
+2025-01-28 18:09:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'rfr4',
+  _id: new ObjectId('6798d6f23b5442aea5011311'),
+  createdAt: 2025-01-28T13:09:06.942Z,
+  updatedAt: 2025-01-28T13:09:06.942Z,
+  __v: 0
+}
+2025-01-28 18:10:10 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'sd',
+  _id: new ObjectId('6798d7323b5442aea5011327'),
+  createdAt: 2025-01-28T13:10:10.154Z,
+  updatedAt: 2025-01-28T13:10:10.154Z,
+  __v: 0
+}
+2025-01-28 18:10:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hello',
+  _id: new ObjectId('6798d7613b5442aea501132b'),
+  createdAt: 2025-01-28T13:10:57.202Z,
+  updatedAt: 2025-01-28T13:10:57.202Z,
+  __v: 0
+}
+2025-01-28 18:11:18 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hello',
+  _id: new ObjectId('6798d7763b5442aea5011337'),
+  createdAt: 2025-01-28T13:11:18.940Z,
+  updatedAt: 2025-01-28T13:11:18.940Z,
+  __v: 0
+}
+2025-01-28 18:21:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '3e',
+  _id: new ObjectId('6798d9d13b5442aea5011351'),
+  createdAt: 2025-01-28T13:21:21.556Z,
+  updatedAt: 2025-01-28T13:21:21.556Z,
+  __v: 0
+}
+2025-01-28 18:26:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'r54',
+  _id: new ObjectId('6798db0f3b5442aea5011382'),
+  createdAt: 2025-01-28T13:26:39.178Z,
+  updatedAt: 2025-01-28T13:26:39.178Z,
+  __v: 0
+}
+2025-01-28 18:27:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '5t45',
+  _id: new ObjectId('6798db4b3b5442aea50113ad'),
+  createdAt: 2025-01-28T13:27:39.431Z,
+  updatedAt: 2025-01-28T13:27:39.431Z,
+  __v: 0
+}
+2025-01-28 18:28:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'gt',
+  _id: new ObjectId('6798db603b5442aea50113bd'),
+  createdAt: 2025-01-28T13:28:00.077Z,
+  updatedAt: 2025-01-28T13:28:00.077Z,
+  __v: 0
+}
+2025-01-28 18:30:54 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'r54t',
+  _id: new ObjectId('6798dc0e3b5442aea50113c7'),
+  createdAt: 2025-01-28T13:30:54.563Z,
+  updatedAt: 2025-01-28T13:30:54.563Z,
+  __v: 0
+}
+2025-01-28 18:40:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('6798de523b5442aea50113d7'),
+  createdAt: 2025-01-28T13:40:34.393Z,
+  updatedAt: 2025-01-28T13:40:34.393Z,
+  __v: 0
+}
+2025-01-28 18:40:37 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('6798de553b5442aea50113db'),
+  createdAt: 2025-01-28T13:40:37.711Z,
+  updatedAt: 2025-01-28T13:40:37.711Z,
+  __v: 0
+}
+2025-01-28 18:44:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('6798df293b5442aea5011414'),
+  createdAt: 2025-01-28T13:44:09.530Z,
+  updatedAt: 2025-01-28T13:44:09.530Z,
+  __v: 0
+}
+2025-01-28 18:44:30 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('6798df3e3b5442aea501141e'),
+  createdAt: 2025-01-28T13:44:30.651Z,
+  updatedAt: 2025-01-28T13:44:30.651Z,
+  __v: 0
+}
+2025-01-28 18:44:44 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('6798df4c3b5442aea501142c'),
+  createdAt: 2025-01-28T13:44:44.319Z,
+  updatedAt: 2025-01-28T13:44:44.319Z,
+  __v: 0
+}
+2025-01-28 18:45:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'by',
+  _id: new ObjectId('6798df693b5442aea5011438'),
+  createdAt: 2025-01-28T13:45:13.527Z,
+  updatedAt: 2025-01-28T13:45:13.527Z,
+  __v: 0
+}
+2025-01-28 18:45:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'by',
+  _id: new ObjectId('6798df6d3b5442aea501143c'),
+  createdAt: 2025-01-28T13:45:17.745Z,
+  updatedAt: 2025-01-28T13:45:17.745Z,
+  __v: 0
+}
+2025-01-29 11:25:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'nice',
+  _id: new ObjectId('6799c9f59447c153d1b586b6'),
+  createdAt: 2025-01-29T06:25:57.115Z,
+  updatedAt: 2025-01-29T06:25:57.115Z,
+  __v: 0
+}
+2025-01-29 11:26:02 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'nice',
+  _id: new ObjectId('6799c9fa9447c153d1b586ba'),
+  createdAt: 2025-01-29T06:26:02.340Z,
+  updatedAt: 2025-01-29T06:26:02.340Z,
+  __v: 0
+}
+2025-01-29 11:37:07 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'Hey',
+  _id: new ObjectId('6799cc939447c153d1b586dc'),
+  createdAt: 2025-01-29T06:37:07.886Z,
+  updatedAt: 2025-01-29T06:37:07.886Z,
+  __v: 0
+}
+2025-01-29 11:37:11 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'Nice',
+  _id: new ObjectId('6799cc979447c153d1b586e0'),
+  createdAt: 2025-01-29T06:37:11.945Z,
+  updatedAt: 2025-01-29T06:37:11.945Z,
+  __v: 0
+}
+2025-01-29 11:54:16 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'nice',
+  _id: new ObjectId('6799d0989447c153d1b586e4'),
+  createdAt: 2025-01-29T06:54:16.803Z,
+  updatedAt: 2025-01-29T06:54:16.803Z,
+  __v: 0
+}
+2025-01-29 12:38:44 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'nice',
+  _id: new ObjectId('6799db049447c153d1b586fb'),
+  createdAt: 2025-01-29T07:38:44.524Z,
+  updatedAt: 2025-01-29T07:38:44.524Z,
+  __v: 0
+}
+2025-01-29 13:22:33 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'by',
+  _id: new ObjectId('6799e5489447c153d1b58abd'),
+  createdAt: 2025-01-29T08:22:32.999Z,
+  updatedAt: 2025-01-29T08:22:32.999Z,
+  __v: 0
+}
+2025-01-29 13:24:40 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'by',
+  _id: new ObjectId('6799e5c89447c153d1b59564'),
+  createdAt: 2025-01-29T08:24:40.753Z,
+  updatedAt: 2025-01-29T08:24:40.753Z,
+  __v: 0
+}
+2025-01-29 14:04:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('6799ef099447c153d1b59574'),
+  createdAt: 2025-01-29T09:04:09.067Z,
+  updatedAt: 2025-01-29T09:04:09.067Z,
+  __v: 0
+}
+2025-01-29 14:04:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'by',
+  _id: new ObjectId('6799ef189447c153d1b59582'),
+  createdAt: 2025-01-29T09:04:24.651Z,
+  updatedAt: 2025-01-29T09:04:24.651Z,
+  __v: 0
+}
+2025-01-29 14:05:05 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'nice',
+  _id: new ObjectId('6799ef419447c153d1b59592'),
+  createdAt: 2025-01-29T09:05:05.739Z,
+  updatedAt: 2025-01-29T09:05:05.739Z,
+  __v: 0
+}
+2025-01-29 15:08:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'bey',
+  _id: new ObjectId('6799fe089447c153d1b595a4'),
+  createdAt: 2025-01-29T10:08:08.398Z,
+  updatedAt: 2025-01-29T10:08:08.398Z,
+  __v: 0
+}
+2025-01-29 15:08:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'by',
+  _id: new ObjectId('6799fe379447c153d1b595b7'),
+  createdAt: 2025-01-29T10:08:55.325Z,
+  updatedAt: 2025-01-29T10:08:55.325Z,
+  __v: 0
+}
+2025-01-29 16:39:02 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679a1356cd187b2a04de45ba'),
+  createdAt: 2025-01-29T11:39:02.556Z,
+  updatedAt: 2025-01-29T11:39:02.556Z,
+  __v: 0
+}
+2025-01-29 16:39:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679a135acd187b2a04de45be'),
+  createdAt: 2025-01-29T11:39:06.963Z,
+  updatedAt: 2025-01-29T11:39:06.963Z,
+  __v: 0
+}
+2025-01-29 16:40:02 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'nive',
+  _id: new ObjectId('679a1392cd187b2a04de45cd'),
+  createdAt: 2025-01-29T11:40:02.888Z,
+  updatedAt: 2025-01-29T11:40:02.888Z,
+  __v: 0
+}
+2025-01-29 16:51:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('679a1624cd187b2a04de460c'),
+  createdAt: 2025-01-29T11:51:00.939Z,
+  updatedAt: 2025-01-29T11:51:00.939Z,
+  __v: 0
+}
+2025-01-29 16:54:15 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'nice',
+  _id: new ObjectId('679a16e7c9113ba3e2d7d665'),
+  createdAt: 2025-01-29T11:54:15.266Z,
+  updatedAt: 2025-01-29T11:54:15.266Z,
+  __v: 0
+}
+2025-01-29 16:55:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('679a172bc9113ba3e2d7d672'),
+  createdAt: 2025-01-29T11:55:23.141Z,
+  updatedAt: 2025-01-29T11:55:23.141Z,
+  __v: 0
+}
+2025-01-29 17:04:18 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'nj',
+  _id: new ObjectId('679a1942c9113ba3e2d7d6a1'),
+  createdAt: 2025-01-29T12:04:18.763Z,
+  updatedAt: 2025-01-29T12:04:18.763Z,
+  __v: 0
+}
+2025-01-29 17:39:40 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'kkk',
+  _id: new ObjectId('679a218cdf18f8f1dad9e2d2'),
+  createdAt: 2025-01-29T12:39:40.771Z,
+  updatedAt: 2025-01-29T12:39:40.771Z,
+  __v: 0
+}
+2025-01-30 11:15:09 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '33d',
+  _id: new ObjectId('679b18eda27f7c2a9364829b'),
+  createdAt: 2025-01-30T06:15:09.402Z,
+  updatedAt: 2025-01-30T06:15:09.402Z,
+  __v: 0
+}
+2025-01-30 11:31:03 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b1ca7a27f7c2a936482cc'),
+  createdAt: 2025-01-30T06:31:03.058Z,
+  updatedAt: 2025-01-30T06:31:03.058Z,
+  __v: 0
+}
+2025-01-30 11:53:00 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'bey',
+  _id: new ObjectId('679b21cca27f7c2a93648349'),
+  createdAt: 2025-01-30T06:53:00.881Z,
+  updatedAt: 2025-01-30T06:53:00.881Z,
+  __v: 0
+}
+2025-01-30 11:53:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'nice',
+  _id: new ObjectId('679b21e4a27f7c2a93648354'),
+  createdAt: 2025-01-30T06:53:24.087Z,
+  updatedAt: 2025-01-30T06:53:24.087Z,
+  __v: 0
+}
+2025-01-30 11:55:16 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('679b2254a27f7c2a93648361'),
+  createdAt: 2025-01-30T06:55:16.592Z,
+  updatedAt: 2025-01-30T06:55:16.592Z,
+  __v: 0
+}
+2025-01-30 11:56:42 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hy',
+  _id: new ObjectId('679b22aaa27f7c2a9364836c'),
+  createdAt: 2025-01-30T06:56:42.228Z,
+  updatedAt: 2025-01-30T06:56:42.228Z,
+  __v: 0
+}
+2025-01-30 11:56:47 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'acha',
+  _id: new ObjectId('679b22afa27f7c2a93648373'),
+  createdAt: 2025-01-30T06:56:47.107Z,
+  updatedAt: 2025-01-30T06:56:47.107Z,
+  __v: 0
+}
+2025-01-30 11:57:03 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hmmm',
+  _id: new ObjectId('679b22bfa27f7c2a9364837e'),
+  createdAt: 2025-01-30T06:57:03.943Z,
+  updatedAt: 2025-01-30T06:57:03.943Z,
+  __v: 0
+}
+2025-01-30 12:00:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679b237ea27f7c2a9364838b'),
+  createdAt: 2025-01-30T07:00:14.965Z,
+  updatedAt: 2025-01-30T07:00:14.965Z,
+  __v: 0
+}
+2025-01-30 12:00:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'nice',
+  _id: new ObjectId('679b2387a27f7c2a93648392'),
+  createdAt: 2025-01-30T07:00:23.971Z,
+  updatedAt: 2025-01-30T07:00:23.971Z,
+  __v: 0
+}
+2025-01-30 12:00:59 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'bbey',
+  _id: new ObjectId('679b23aba27f7c2a9364839d'),
+  createdAt: 2025-01-30T07:00:59.351Z,
+  updatedAt: 2025-01-30T07:00:59.351Z,
+  __v: 0
+}
+2025-01-30 12:01:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('679b23b4a27f7c2a936483ab'),
+  createdAt: 2025-01-30T07:01:08.269Z,
+  updatedAt: 2025-01-30T07:01:08.269Z,
+  __v: 0
+}
+2025-01-30 12:01:22 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('679b23c2a27f7c2a936483bc'),
+  createdAt: 2025-01-30T07:01:22.303Z,
+  updatedAt: 2025-01-30T07:01:22.303Z,
+  __v: 0
+}
+2025-01-30 12:02:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('679b23fda27f7c2a936483c3'),
+  createdAt: 2025-01-30T07:02:21.939Z,
+  updatedAt: 2025-01-30T07:02:21.939Z,
+  __v: 0
+}
+2025-01-30 12:09:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('679b2594a27f7c2a936483e6'),
+  createdAt: 2025-01-30T07:09:08.478Z,
+  updatedAt: 2025-01-30T07:09:08.478Z,
+  __v: 0
+}
+2025-01-30 12:18:31 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679b27c7a27f7c2a936483f9'),
+  createdAt: 2025-01-30T07:18:31.733Z,
+  updatedAt: 2025-01-30T07:18:31.733Z,
+  __v: 0
+}
+2025-01-30 12:21:02 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b285ea27f7c2a9364840a'),
+  createdAt: 2025-01-30T07:21:02.390Z,
+  updatedAt: 2025-01-30T07:21:02.390Z,
+  __v: 0
+}
+2025-01-30 12:21:44 [31merror[39m: Cast to ObjectId failed for value "1" (type number) at path "_id" for model "User"
+2025-01-30 12:22:45 [31merror[39m: Cast to ObjectId failed for value "1" (type number) at path "_id" for model "User"
+2025-01-30 12:23:19 [31merror[39m: Cast to ObjectId failed for value "1" (type number) at path "_id" for model "User"
+2025-01-30 12:31:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b2acfa27f7c2a9364841e'),
+  createdAt: 2025-01-30T07:31:27.384Z,
+  updatedAt: 2025-01-30T07:31:27.384Z,
+  __v: 0
+}
+2025-01-30 12:36:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hry',
+  _id: new ObjectId('679b2bfba27f7c2a93648433'),
+  createdAt: 2025-01-30T07:36:27.254Z,
+  updatedAt: 2025-01-30T07:36:27.254Z,
+  __v: 0
+}
+2025-01-30 12:41:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b2d3ea27f7c2a93648444'),
+  createdAt: 2025-01-30T07:41:50.009Z,
+  updatedAt: 2025-01-30T07:41:50.009Z,
+  __v: 0
+}
+2025-01-30 12:54:04 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('679b301ca27f7c2a93648466'),
+  createdAt: 2025-01-30T07:54:04.186Z,
+  updatedAt: 2025-01-30T07:54:04.186Z,
+  __v: 0
+}
+2025-01-30 12:54:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'bey',
+  _id: new ObjectId('679b3020a27f7c2a9364846d'),
+  createdAt: 2025-01-30T07:54:08.205Z,
+  updatedAt: 2025-01-30T07:54:08.205Z,
+  __v: 0
+}
+2025-01-30 12:55:52 [31merror[39m: Cast to ObjectId failed for value "4" (type number) at path "_id" for model "User"
+2025-01-30 12:56:17 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'nh',
+  _id: new ObjectId('679b30a1a27f7c2a93648482'),
+  createdAt: 2025-01-30T07:56:17.165Z,
+  updatedAt: 2025-01-30T07:56:17.165Z,
+  __v: 0
+}
+2025-01-30 13:48:37 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hi',
+  _id: new ObjectId('679b3ce5a27f7c2a936484a2'),
+  createdAt: 2025-01-30T08:48:37.243Z,
+  updatedAt: 2025-01-30T08:48:37.243Z,
+  __v: 0
+}
+2025-01-30 13:53:38 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'we',
+  _id: new ObjectId('679b3e12a27f7c2a936484ad'),
+  createdAt: 2025-01-30T08:53:38.783Z,
+  updatedAt: 2025-01-30T08:53:38.783Z,
+  __v: 0
+}
+2025-01-30 17:11:30 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('679b6c72a27f7c2a936484b8'),
+  createdAt: 2025-01-30T12:11:30.299Z,
+  updatedAt: 2025-01-30T12:11:30.299Z,
+  __v: 0
+}
+2025-01-30 17:11:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '33',
+  _id: new ObjectId('679b6c76a27f7c2a936484bc'),
+  createdAt: 2025-01-30T12:11:34.057Z,
+  updatedAt: 2025-01-30T12:11:34.057Z,
+  __v: 0
+}
+2025-01-30 17:24:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('679b6f75a27f7c2a936484da'),
+  createdAt: 2025-01-30T12:24:21.769Z,
+  updatedAt: 2025-01-30T12:24:21.769Z,
+  __v: 0
+}
+2025-01-30 17:39:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b7316a27f7c2a936484f1'),
+  createdAt: 2025-01-30T12:39:50.822Z,
+  updatedAt: 2025-01-30T12:39:50.822Z,
+  __v: 0
+}
+2025-01-30 17:39:57 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'bey',
+  _id: new ObjectId('679b731da27f7c2a936484f5'),
+  createdAt: 2025-01-30T12:39:57.374Z,
+  updatedAt: 2025-01-30T12:39:57.374Z,
+  __v: 0
+}
+2025-01-30 17:42:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'ey',
+  _id: new ObjectId('679b73a6a27f7c2a936484fc'),
+  createdAt: 2025-01-30T12:42:14.487Z,
+  updatedAt: 2025-01-30T12:42:14.487Z,
+  __v: 0
+}
+2025-01-30 17:42:18 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b73aaa27f7c2a93648500'),
+  createdAt: 2025-01-30T12:42:18.047Z,
+  updatedAt: 2025-01-30T12:42:18.047Z,
+  __v: 0
+}
+2025-01-30 17:42:25 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hry',
+  _id: new ObjectId('679b73b1a27f7c2a93648504'),
+  createdAt: 2025-01-30T12:42:25.072Z,
+  updatedAt: 2025-01-30T12:42:25.072Z,
+  __v: 0
+}
+2025-01-30 17:43:31 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b73f3a27f7c2a93648508'),
+  createdAt: 2025-01-30T12:43:31.183Z,
+  updatedAt: 2025-01-30T12:43:31.183Z,
+  __v: 0
+}
+2025-01-30 17:43:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b7402a27f7c2a9364850f'),
+  createdAt: 2025-01-30T12:43:46.127Z,
+  updatedAt: 2025-01-30T12:43:46.127Z,
+  __v: 0
+}
+2025-01-30 17:45:45 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('679b7479a27f7c2a9364851d'),
+  createdAt: 2025-01-30T12:45:45.266Z,
+  updatedAt: 2025-01-30T12:45:45.266Z,
+  __v: 0
+}
+2025-01-30 17:45:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'by',
+  _id: new ObjectId('679b747da27f7c2a93648521'),
+  createdAt: 2025-01-30T12:45:49.427Z,
+  updatedAt: 2025-01-30T12:45:49.427Z,
+  __v: 0
+}
+2025-01-30 17:45:59 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hry',
+  _id: new ObjectId('679b7487a27f7c2a93648528'),
+  createdAt: 2025-01-30T12:45:59.218Z,
+  updatedAt: 2025-01-30T12:45:59.218Z,
+  __v: 0
+}
+2025-01-30 17:47:25 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'bry',
+  _id: new ObjectId('679b74dda27f7c2a9364852c'),
+  createdAt: 2025-01-30T12:47:25.334Z,
+  updatedAt: 2025-01-30T12:47:25.334Z,
+  __v: 0
+}
+2025-01-30 17:47:30 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'jnk',
+  _id: new ObjectId('679b74e2a27f7c2a93648530'),
+  createdAt: 2025-01-30T12:47:30.796Z,
+  updatedAt: 2025-01-30T12:47:30.796Z,
+  __v: 0
+}
+2025-01-30 17:48:53 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'het',
+  _id: new ObjectId('679b7535a27f7c2a93648544'),
+  createdAt: 2025-01-30T12:48:53.184Z,
+  updatedAt: 2025-01-30T12:48:53.184Z,
+  __v: 0
+}
+2025-01-30 17:53:30 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'bry',
+  _id: new ObjectId('679b764aa27f7c2a93648555'),
+  createdAt: 2025-01-30T12:53:30.449Z,
+  updatedAt: 2025-01-30T12:53:30.449Z,
+  __v: 0
+}
+2025-01-30 17:54:16 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hry',
+  _id: new ObjectId('679b7678a27f7c2a93648559'),
+  createdAt: 2025-01-30T12:54:16.458Z,
+  updatedAt: 2025-01-30T12:54:16.458Z,
+  __v: 0
+}
+2025-01-30 17:59:51 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679b77c7a27f7c2a93648565'),
+  createdAt: 2025-01-30T12:59:51.168Z,
+  updatedAt: 2025-01-30T12:59:51.168Z,
+  __v: 0
+}
+2025-01-30 18:00:01 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hry',
+  _id: new ObjectId('679b77d1a27f7c2a9364856f'),
+  createdAt: 2025-01-30T13:00:01.515Z,
+  updatedAt: 2025-01-30T13:00:01.515Z,
+  __v: 0
+}
+2025-01-30 18:04:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hry',
+  _id: new ObjectId('679b78eba27f7c2a93648577'),
+  createdAt: 2025-01-30T13:04:43.464Z,
+  updatedAt: 2025-01-30T13:04:43.464Z,
+  __v: 0
+}
+2025-01-30 18:04:48 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: ' nnfrf',
+  _id: new ObjectId('679b78f0a27f7c2a9364857b'),
+  createdAt: 2025-01-30T13:04:48.540Z,
+  updatedAt: 2025-01-30T13:04:48.540Z,
+  __v: 0
+}
+2025-01-30 18:05:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'ffhtfth',
+  _id: new ObjectId('679b7911a27f7c2a9364857f'),
+  createdAt: 2025-01-30T13:05:21.370Z,
+  updatedAt: 2025-01-30T13:05:21.370Z,
+  __v: 0
+}
+2025-01-30 18:07:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3ejy32g',
+  _id: new ObjectId('679b79aba27f7c2a9364858a'),
+  createdAt: 2025-01-30T13:07:55.210Z,
+  updatedAt: 2025-01-30T13:07:55.210Z,
+  __v: 0
+}
+2025-01-30 18:23:45 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'heyyur',
+  _id: new ObjectId('679b7d61a27f7c2a93648592'),
+  createdAt: 2025-01-30T13:23:45.562Z,
+  updatedAt: 2025-01-30T13:23:45.562Z,
+  __v: 0
+}
+2025-01-30 18:23:59 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hry',
+  _id: new ObjectId('679b7d6fa27f7c2a936485a3'),
+  createdAt: 2025-01-30T13:23:59.696Z,
+  updatedAt: 2025-01-30T13:23:59.696Z,
+  __v: 0
+}
+2025-01-30 18:24:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hry',
+  _id: new ObjectId('679b7d85a27f7c2a936485ae'),
+  createdAt: 2025-01-30T13:24:21.554Z,
+  updatedAt: 2025-01-30T13:24:21.554Z,
+  __v: 0
+}
+2025-01-30 18:25:41 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hty',
+  _id: new ObjectId('679b7dd5a27f7c2a936485c8'),
+  createdAt: 2025-01-30T13:25:41.633Z,
+  updatedAt: 2025-01-30T13:25:41.633Z,
+  __v: 0
+}
+2025-01-30 18:25:55 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hruhj4r',
+  _id: new ObjectId('679b7de3a27f7c2a936485d3'),
+  createdAt: 2025-01-30T13:25:55.726Z,
+  updatedAt: 2025-01-30T13:25:55.726Z,
+  __v: 0
+}
+2025-01-30 18:26:32 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: '34fdr3jnfj',
+  _id: new ObjectId('679b7e08a27f7c2a936485dc'),
+  createdAt: 2025-01-30T13:26:32.377Z,
+  updatedAt: 2025-01-30T13:26:32.377Z,
+  __v: 0
+}
+2025-01-30 18:26:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'vvhvh',
+  _id: new ObjectId('679b7e19a27f7c2a936485e6'),
+  createdAt: 2025-01-30T13:26:49.875Z,
+  updatedAt: 2025-01-30T13:26:49.875Z,
+  __v: 0
+}
+2025-01-30 18:36:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'gggg',
+  _id: new ObjectId('679b8053a27f7c2a936485fa'),
+  createdAt: 2025-01-30T13:36:19.264Z,
+  updatedAt: 2025-01-30T13:36:19.264Z,
+  __v: 0
+}
+2025-01-30 18:41:32 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'by',
+  _id: new ObjectId('679b818cf359f623585db181'),
+  createdAt: 2025-01-30T13:41:32.386Z,
+  updatedAt: 2025-01-30T13:41:32.386Z,
+  __v: 0
+}
+2025-01-30 18:41:41 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'by',
+  _id: new ObjectId('679b8195f359f623585db185'),
+  createdAt: 2025-01-30T13:41:41.111Z,
+  updatedAt: 2025-01-30T13:41:41.111Z,
+  __v: 0
+}
+2025-01-30 18:41:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'by',
+  _id: new ObjectId('679b819ef359f623585db189'),
+  createdAt: 2025-01-30T13:41:50.065Z,
+  updatedAt: 2025-01-30T13:41:50.065Z,
+  __v: 0
+}
+2025-01-30 18:42:15 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'by',
+  _id: new ObjectId('679b81b7f359f623585db197'),
+  createdAt: 2025-01-30T13:42:15.180Z,
+  updatedAt: 2025-01-30T13:42:15.180Z,
+  __v: 0
+}
+2025-01-30 18:42:18 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679b81baf359f623585db19b'),
+  createdAt: 2025-01-30T13:42:18.172Z,
+  updatedAt: 2025-01-30T13:42:18.172Z,
+  __v: 0
+}
+2025-01-30 18:42:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679b81c0f359f623585db19f'),
+  createdAt: 2025-01-30T13:42:24.727Z,
+  updatedAt: 2025-01-30T13:42:24.727Z,
+  __v: 0
+}
+2025-01-30 18:42:31 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('679b81c7f359f623585db1a3'),
+  createdAt: 2025-01-30T13:42:31.121Z,
+  updatedAt: 2025-01-30T13:42:31.121Z,
+  __v: 0
+}
+2025-01-30 18:43:22 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'f3f',
+  _id: new ObjectId('679b81faf359f623585db1b1'),
+  createdAt: 2025-01-30T13:43:22.737Z,
+  updatedAt: 2025-01-30T13:43:22.737Z,
+  __v: 0
+}
+2025-01-30 18:44:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3e',
+  _id: new ObjectId('679b8238f359f623585db1b9'),
+  createdAt: 2025-01-30T13:44:24.772Z,
+  updatedAt: 2025-01-30T13:44:24.772Z,
+  __v: 0
+}
+2025-01-30 18:45:15 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'ftft',
+  _id: new ObjectId('679b826bf359f623585db1c7'),
+  createdAt: 2025-01-30T13:45:15.138Z,
+  updatedAt: 2025-01-30T13:45:15.138Z,
+  __v: 0
+}
+2025-01-30 18:45:23 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hy',
+  _id: new ObjectId('679b8273f359f623585db1cf'),
+  createdAt: 2025-01-30T13:45:23.259Z,
+  updatedAt: 2025-01-30T13:45:23.259Z,
+  __v: 0
+}
+2025-01-30 18:49:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'ju',
+  _id: new ObjectId('679b8361f359f623585db1dd'),
+  createdAt: 2025-01-30T13:49:21.410Z,
+  updatedAt: 2025-01-30T13:49:21.410Z,
+  __v: 0
+}
+2025-01-30 18:49:34 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679b836ef359f623585db1e8'),
+  createdAt: 2025-01-30T13:49:34.278Z,
+  updatedAt: 2025-01-30T13:49:34.278Z,
+  __v: 0
+}
+2025-01-30 18:51:28 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'nice',
+  _id: new ObjectId('679b83e0f359f623585db1f5'),
+  createdAt: 2025-01-30T13:51:28.353Z,
+  updatedAt: 2025-01-30T13:51:28.353Z,
+  __v: 0
+}
+2025-01-30 18:52:04 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'he',
+  _id: new ObjectId('679b8404f359f623585db204'),
+  createdAt: 2025-01-30T13:52:04.429Z,
+  updatedAt: 2025-01-30T13:52:04.429Z,
+  __v: 0
+}
+2025-01-30 18:53:50 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'e3d',
+  _id: new ObjectId('679b846ef359f623585db20c'),
+  createdAt: 2025-01-30T13:53:50.338Z,
+  updatedAt: 2025-01-30T13:53:50.338Z,
+  __v: 0
+}
+2025-01-30 19:00:05 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'ht',
+  _id: new ObjectId('679b85e5f359f623585db216'),
+  createdAt: 2025-01-30T14:00:05.441Z,
+  updatedAt: 2025-01-30T14:00:05.441Z,
+  __v: 0
+}
+2025-01-31 15:33:06 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hry',
+  _id: new ObjectId('679ca6e2096a81db1a9d9c45'),
+  createdAt: 2025-01-31T10:33:06.115Z,
+  updatedAt: 2025-01-31T10:33:06.115Z,
+  __v: 0
+}
+2025-01-31 15:33:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '4dr3',
+  _id: new ObjectId('679ca6f4096a81db1a9d9c56'),
+  createdAt: 2025-01-31T10:33:24.575Z,
+  updatedAt: 2025-01-31T10:33:24.575Z,
+  __v: 0
+}
+2025-01-31 15:44:59 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hy',
+  _id: new ObjectId('679ca9ab096a81db1a9d9c64'),
+  createdAt: 2025-01-31T10:44:59.291Z,
+  updatedAt: 2025-01-31T10:44:59.291Z,
+  __v: 0
+}
+2025-01-31 15:45:13 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'n3kj',
+  _id: new ObjectId('679ca9b9096a81db1a9d9c6e'),
+  createdAt: 2025-01-31T10:45:13.742Z,
+  updatedAt: 2025-01-31T10:45:13.742Z,
+  __v: 0
+}
+2025-01-31 15:47:32 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'by',
+  _id: new ObjectId('679caa43096a81db1a9d9c7f'),
+  createdAt: 2025-01-31T10:47:31.892Z,
+  updatedAt: 2025-01-31T10:47:31.892Z,
+  __v: 0
+}
+2025-01-31 15:48:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hy',
+  _id: new ObjectId('679caa75096a81db1a9d9c8d'),
+  createdAt: 2025-01-31T10:48:21.680Z,
+  updatedAt: 2025-01-31T10:48:21.680Z,
+  __v: 0
+}
+2025-01-31 15:48:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'My Name',
+  _id: new ObjectId('679caa8e096a81db1a9d9c9b'),
+  createdAt: 2025-01-31T10:48:46.018Z,
+  updatedAt: 2025-01-31T10:48:46.018Z,
+  __v: 0
+}
+2025-01-31 15:58:35 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hy',
+  _id: new ObjectId('679cacdb096a81db1a9d9ca7'),
+  createdAt: 2025-01-31T10:58:35.380Z,
+  updatedAt: 2025-01-31T10:58:35.380Z,
+  __v: 0
+}
+2025-01-31 15:58:47 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'ma name is saud',
+  _id: new ObjectId('679cace7096a81db1a9d9cb1'),
+  createdAt: 2025-01-31T10:58:47.888Z,
+  updatedAt: 2025-01-31T10:58:47.888Z,
+  __v: 0
+}
+2025-01-31 16:00:04 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'my name is saud',
+  _id: new ObjectId('679cad34096a81db1a9d9cbc'),
+  createdAt: 2025-01-31T11:00:04.926Z,
+  updatedAt: 2025-01-31T11:00:04.926Z,
+  __v: 0
+}
+2025-01-31 16:00:29 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hy',
+  _id: new ObjectId('679cad4d096a81db1a9d9cc9'),
+  createdAt: 2025-01-31T11:00:29.600Z,
+  updatedAt: 2025-01-31T11:00:29.600Z,
+  __v: 0
+}
+2025-01-31 16:15:27 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'Yur name',
+  _id: new ObjectId('679cb0cf096a81db1a9d9cd7'),
+  createdAt: 2025-01-31T11:15:27.855Z,
+  updatedAt: 2025-01-31T11:15:27.855Z,
+  __v: 0
+}
+2025-01-31 16:58:11 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('679cbad3096a81db1a9d9ce4'),
+  createdAt: 2025-01-31T11:58:11.271Z,
+  updatedAt: 2025-01-31T11:58:11.271Z,
+  __v: 0
+}
+2025-01-31 16:58:20 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'hey',
+  _id: new ObjectId('679cbadc096a81db1a9d9cf2'),
+  createdAt: 2025-01-31T11:58:20.060Z,
+  updatedAt: 2025-01-31T11:58:20.060Z,
+  __v: 0
+}
+2025-01-31 16:58:31 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('679cbae7096a81db1a9d9cfa'),
+  createdAt: 2025-01-31T11:58:31.843Z,
+  updatedAt: 2025-01-31T11:58:31.843Z,
+  __v: 0
+}
+2025-01-31 16:58:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'gt5g',
+  _id: new ObjectId('679cbaf6096a81db1a9d9d02'),
+  createdAt: 2025-01-31T11:58:46.295Z,
+  updatedAt: 2025-01-31T11:58:46.295Z,
+  __v: 0
+}
+2025-01-31 17:20:26 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'njnjkn',
+  _id: new ObjectId('679cc00a096a81db1a9d9d0a'),
+  createdAt: 2025-01-31T12:20:26.969Z,
+  updatedAt: 2025-01-31T12:20:26.969Z,
+  __v: 0
+}
+2025-01-31 17:20:41 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'knkn',
+  _id: new ObjectId('679cc019096a81db1a9d9d12'),
+  createdAt: 2025-01-31T12:20:41.519Z,
+  updatedAt: 2025-01-31T12:20:41.519Z,
+  __v: 0
+}
+2025-01-31 19:01:53 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'sd',
+  _id: new ObjectId('679cd7d1096a81db1a9d9d2a'),
+  createdAt: 2025-01-31T14:01:53.531Z,
+  updatedAt: 2025-01-31T14:01:53.531Z,
+  __v: 0
+}
+2025-01-31 19:04:08 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'dsadsa',
+  _id: new ObjectId('679cd858096a81db1a9d9d37'),
+  createdAt: 2025-01-31T14:04:08.143Z,
+  updatedAt: 2025-01-31T14:04:08.143Z,
+  __v: 0
+}
+2025-01-31 19:04:14 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'wewqeq',
+  _id: new ObjectId('679cd85e096a81db1a9d9d3f'),
+  createdAt: 2025-01-31T14:04:14.858Z,
+  updatedAt: 2025-01-31T14:04:14.858Z,
+  __v: 0
+}
+2025-01-31 19:04:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'dsrdtr',
+  _id: new ObjectId('679cd881096a81db1a9d9d47'),
+  createdAt: 2025-01-31T14:04:49.472Z,
+  updatedAt: 2025-01-31T14:04:49.472Z,
+  __v: 0
+}
+2025-02-04 11:49:45 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('67a1b88985c21e4dcbf0a093'),
+  createdAt: 2025-02-04T06:49:45.486Z,
+  updatedAt: 2025-02-04T06:49:45.486Z,
+  __v: 0
+}
+2025-02-04 11:49:52 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'by',
+  _id: new ObjectId('67a1b89085c21e4dcbf0a09b'),
+  createdAt: 2025-02-04T06:49:52.374Z,
+  updatedAt: 2025-02-04T06:49:52.374Z,
+  __v: 0
+}
+2025-02-04 11:52:44 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hy',
+  _id: new ObjectId('67a1b93c85c21e4dcbf0a0a6'),
+  createdAt: 2025-02-04T06:52:44.463Z,
+  updatedAt: 2025-02-04T06:52:44.463Z,
+  __v: 0
+}
+2025-02-04 11:52:49 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'nn3nj3ndj3nkjd',
+  _id: new ObjectId('67a1b94185c21e4dcbf0a0ab'),
+  createdAt: 2025-02-04T06:52:49.653Z,
+  updatedAt: 2025-02-04T06:52:49.653Z,
+  __v: 0
+}
+2025-02-04 12:01:39 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'bey',
+  _id: new ObjectId('67a1bb5385c21e4dcbf0a0b8'),
+  createdAt: 2025-02-04T07:01:39.863Z,
+  updatedAt: 2025-02-04T07:01:39.863Z,
+  __v: 0
+}
+2025-02-04 12:01:59 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('67a1bb6785c21e4dcbf0a0c1'),
+  createdAt: 2025-02-04T07:01:59.345Z,
+  updatedAt: 2025-02-04T07:01:59.345Z,
+  __v: 0
+}
+2025-02-04 12:04:03 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'sasasa',
+  _id: new ObjectId('67a1bbe385c21e4dcbf0a0ce'),
+  createdAt: 2025-02-04T07:04:03.101Z,
+  updatedAt: 2025-02-04T07:04:03.101Z,
+  __v: 0
+}
+2025-02-04 12:05:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'sfdhgsafhgd',
+  _id: new ObjectId('67a1bc2f85c21e4dcbf0a0d8'),
+  createdAt: 2025-02-04T07:05:19.347Z,
+  updatedAt: 2025-02-04T07:05:19.347Z,
+  __v: 0
+}
+2025-02-04 12:05:24 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 's',
+  _id: new ObjectId('67a1bc3485c21e4dcbf0a0e0'),
+  createdAt: 2025-02-04T07:05:24.688Z,
+  updatedAt: 2025-02-04T07:05:24.688Z,
+  __v: 0
+}
+2025-02-04 12:05:28 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'sa',
+  _id: new ObjectId('67a1bc3885c21e4dcbf0a0e8'),
+  createdAt: 2025-02-04T07:05:28.350Z,
+  updatedAt: 2025-02-04T07:05:28.350Z,
+  __v: 0
+}
+2025-02-04 12:10:43 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('67a1bd7385c21e4dcbf0a0fa'),
+  createdAt: 2025-02-04T07:10:43.153Z,
+  updatedAt: 2025-02-04T07:10:43.153Z,
+  __v: 0
+}
+2025-02-04 12:18:03 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'f4rfr4fr',
+  _id: new ObjectId('67a1bf2b85c21e4dcbf0a106'),
+  createdAt: 2025-02-04T07:18:03.257Z,
+  updatedAt: 2025-02-04T07:18:03.257Z,
+  __v: 0
+}
+2025-02-04 12:18:03 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '5gt5g',
+  _id: new ObjectId('67a1bf2b85c21e4dcbf0a10e'),
+  createdAt: 2025-02-04T07:18:03.969Z,
+  updatedAt: 2025-02-04T07:18:03.969Z,
+  __v: 0
+}
+2025-02-04 12:51:56 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: '3e3e',
+  _id: new ObjectId('67a1c71c85c21e4dcbf0a119'),
+  createdAt: 2025-02-04T07:51:56.821Z,
+  updatedAt: 2025-02-04T07:51:56.821Z,
+  __v: 0
+}
+2025-02-04 17:03:46 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'nice',
+  _id: new ObjectId('67a2022285c21e4dcbf0a13a'),
+  createdAt: 2025-02-04T12:03:46.770Z,
+  updatedAt: 2025-02-04T12:03:46.770Z,
+  __v: 0
+}
+2025-02-04 17:04:02 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'nice',
+  _id: new ObjectId('67a2023285c21e4dcbf0a149'),
+  createdAt: 2025-02-04T12:04:02.436Z,
+  updatedAt: 2025-02-04T12:04:02.436Z,
+  __v: 0
+}
+2025-02-04 17:04:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79d'),
+  text: 'vibe',
+  _id: new ObjectId('67a2024585c21e4dcbf0a154'),
+  createdAt: 2025-02-04T12:04:21.145Z,
+  updatedAt: 2025-02-04T12:04:21.145Z,
+  __v: 0
+}
+2025-02-04 17:07:54 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'uhuhuh',
+  _id: new ObjectId('67a2031a85c21e4dcbf0a160'),
+  createdAt: 2025-02-04T12:07:54.383Z,
+  updatedAt: 2025-02-04T12:07:54.383Z,
+  __v: 0
+}
+2025-02-04 17:36:07 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '4fr4f',
+  _id: new ObjectId('67a209b785c21e4dcbf0a17b'),
+  createdAt: 2025-02-04T12:36:07.196Z,
+  updatedAt: 2025-02-04T12:36:07.196Z,
+  __v: 0
+}
+2025-02-04 17:36:10 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'hey',
+  _id: new ObjectId('67a209ba85c21e4dcbf0a183'),
+  createdAt: 2025-02-04T12:36:10.139Z,
+  updatedAt: 2025-02-04T12:36:10.139Z,
+  __v: 0
+}
+2025-02-04 18:14:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'nice',
+  _id: new ObjectId('67a212ab85c21e4dcbf0a1b8'),
+  createdAt: 2025-02-04T13:14:19.886Z,
+  updatedAt: 2025-02-04T13:14:19.886Z,
+  __v: 0
+}
+2025-02-04 18:21:21 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: '4r43r',
+  _id: new ObjectId('67a2145185c21e4dcbf0a1c0'),
+  createdAt: 2025-02-04T13:21:21.072Z,
+  updatedAt: 2025-02-04T13:21:21.072Z,
+  __v: 0
+}
+2025-02-04 18:21:28 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'ht',
+  _id: new ObjectId('67a2145885c21e4dcbf0a1c8'),
+  createdAt: 2025-02-04T13:21:28.893Z,
+  updatedAt: 2025-02-04T13:21:28.893Z,
+  __v: 0
+}
+2025-02-04 18:33:26 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'bey',
+  _id: new ObjectId('67a2172685c21e4dcbf0a1e9'),
+  createdAt: 2025-02-04T13:33:26.505Z,
+  updatedAt: 2025-02-04T13:33:26.505Z,
+  __v: 0
+}
+2025-02-04 18:35:19 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79c'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79c'),
+  text: 'ney',
+  _id: new ObjectId('67a2179785c21e4dcbf0a1f5'),
+  createdAt: 2025-02-04T13:35:19.861Z,
+  updatedAt: 2025-02-04T13:35:19.861Z,
+  __v: 0
+}
+2025-02-04 18:59:38 [32minfo[39m: {
+  sender: new ObjectId('667976aa29428f5d4f02f79e'),
+  receiver: new ObjectId('667976aa29428f5d4f02f79e'),
+  text: 'hey',
+  _id: new ObjectId('67a21d4a85c21e4dcbf0a208'),
+  createdAt: 2025-02-04T13:59:38.191Z,
+  updatedAt: 2025-02-04T13:59:38.191Z,
+  __v: 0
+}
