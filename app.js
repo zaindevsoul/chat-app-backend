@@ -46,6 +46,15 @@ User.countDocuments({})
   });
 
 app.use("/api", chatRoutes);
+app.use("/api/users", (req, res) => {
+  User.find({})
+    .then((users) => {
+      res.json(users);
+    })
+    .catch((err) => {
+      console.log("Error fetching users:", err);
+    });
+});
 
 app.listen(port, () => {
   console.log(`Server is running on port http://localhost:${port}/api/chats`);
